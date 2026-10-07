@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:04:48 PM 10-07-2026
+#LAST_UPDATE:09:38 PM 10-07-2026
 #Created by - Sayan 10
 #EXTINF:-1 tvg-id="12" tvg-name="WEST INDIES TOUR OF INDIA: IND vs WI - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",WEST INDIES TOUR OF INDIA: IND vs WI - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -97,31 +97,33 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4249657_english_hls_564ff93f9840854_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-name="One Day International Women: ZIM-W vs WI-W - FANCODE - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11221/image/dark" group-title="Cricket",One Day International Women: ZIM-W vs WI-W - FANCODE - AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://51.77.217.114:8089/WIvsZIM/index.m3u8
-
 #EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78090352c9a0d9d111321531abac5d84:e1f3409d25274b3c335f9179b80f481b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4xrvq8cub7/out/v1/e341473ca5c249318f1ec8b9352012c1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd
+
+#EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - STARZPLAY Live - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - STARZPLAY Live - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
 
 #EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - ALT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78090352c9a0d9d111321531abac5d84:e1f3409d25274b3c335f9179b80f481b
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4xrvq8cub7/out/v1/e341473ca5c249318f1ec8b9352012c1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd
 
 #EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - WILLOW SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - WILLOW SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - FANCODE ENG - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - FANCODE ENG - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -131,197 +133,131 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - Star Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - Star Sports HD
+#EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - T Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - T Sports HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://51.75.127.199:3141/starsports2/index.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - A Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - A Sports HD
+#EXTINF:-1 tvg-id="722" tvg-name="Saudi Pro League: Al-Kholood vs Al-Qadsiah - Thmanyah - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Kholood vs Al-Qadsiah - Thmanyah - HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://playztv-apps.pages.dev/a-sports/index.m3u8
-
-#EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - A Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - A Sports SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="395" tvg-name="Africa Cup of Nations Qual.: Angola vs Malawi - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Angola vs Malawi - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/68514c29-bd04-4ef5-ac9f-9b2954f904b0.m3u8
-
-#EXTINF:-1 tvg-id="395" tvg-name="Africa Cup of Nations Qual.: Angola vs Malawi - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Angola vs Malawi - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.55/hls/hyyya.m3u8
+http://193.47.62.41/hls/nn77QQQAAA.m3u8
 
-#EXTINF:-1 tvg-id="395" tvg-name="Africa Cup of Nations Qual.: Angola vs Malawi - beIN SPORTS Xtra" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Angola vs Malawi - beIN SPORTS Xtra
+#EXTINF:-1 tvg-id="723" tvg-name="Saudi Pro League: Al-Fateh vs Al-Ahli - Thmanyah - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Fateh vs Al-Ahli - Thmanyah - SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/TATATAAAAAQQ.m3u8
 
-#EXTINF:-1 tvg-id="758" tvg-name="ICC CWC League 2: USA vs NAM - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Cricket",ICC CWC League 2: USA vs NAM - Willow Cricbuzz - AQ
+#EXTINF:-1 tvg-id="724" tvg-name="Saudi Pro League: Al-Nassr vs Diriyah - Thmanyah - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football",Saudi Pro League: Al-Nassr vs Diriyah - Thmanyah - SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/TATATAAAAAQQQ.m3u8
+
+#EXTINF:-1 tvg-id="735" tvg-name="Campeonato Brasileiro SÃ©rie A: Internacional vs Corinthians - Premier Sports BR" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football",Campeonato Brasileiro SÃ©rie A: Internacional vs Corinthians - Premier Sports BR
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/bbbbaqqqq.m3u8
+
+#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: MÃ¡laga vs Espanyol - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: MÃ¡laga vs Espanyol - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/GNNN.m3u8
+
+#EXTINF:-1 tvg-id="758" tvg-name="ICC CWC League 2: USA vs NAM - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Football",ICC CWC League 2: USA vs NAM - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791294332~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=9f49566ce34398e27c6f70653e8a8783699dcf7c4fb0bf5b55ea39bd1d10d7ab/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791413135~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=44f83e1dbe5e1d86c53592daa140115031f0a74074bfface2847e588008e9de3/manifest.mpd
 
-#EXTINF:-1 tvg-id="874" tvg-name="International Friendly Games: Argentina vs Benin - beIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Argentina vs Benin - beIN SPORTS FHD
+#EXTINF:-1 tvg-id="1005" tvg-name="Championship: West Ham vs QPR - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: West Ham vs QPR - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-id="874" tvg-name="International Friendly Games: Argentina vs Benin - PREMIERE SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Argentina vs Benin - PREMIERE SPORTS FHD
+#EXTINF:-1 tvg-id="1005" tvg-name="Championship: West Ham vs QPR - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: West Ham vs QPR - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/UYYYAAAAQQQQQ.m3u8
+
+#EXTINF:-1 tvg-id="1005" tvg-name="Championship: West Ham vs QPR - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: West Ham vs QPR - BeIN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live.dyrur1.com/live/72339860_84487dc38d0e9ee8daff17984459bea2_720p.m3u8?auth_key=1789916430-0-0-50bb87b0a2f4dd7a34087c87a0b8c6d2
+
+#EXTINF:-1 tvg-id="1005" tvg-name="Championship: West Ham vs QPR - SKY SPORTS+ HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: West Ham vs QPR - SKY SPORTS+ HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58098-hd/chunks.m3u8?is_vip=false&token=1789994877-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f5d6b43380cc583db89411a2452b11a1
+
+#EXTINF:-1 tvg-id="1005" tvg-name="Championship: West Ham vs QPR - FANCODE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: West Ham vs QPR - FANCODE HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58098-fancode/chunks.m3u8?is_vip=false&token=1789994878-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81534bbfdfc214aa3a1fe5d034070698
+
+#EXTINF:-1 tvg-id="1005" tvg-name="Championship: West Ham vs QPR - CBS SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: West Ham vs QPR - CBS SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58098/chunks.m3u8?is_vip=false&token=1789994879-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-34182efd4b61badde863c3be97d611c7
+
+#EXTINF:-1 tvg-id="1062" tvg-name="Ligue 1: Lens vs Lyon - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Lens vs Lyon - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/RKKKA.m3u8
+
+#EXTINF:-1 tvg-id="1062" tvg-name="Ligue 1: Lens vs Lyon - Ligue+ Live HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Lens vs Lyon - Ligue+ Live HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream2.pro/hls/sqdahach1ax.m3u8
+
+#EXTINF:-1 tvg-id="1062" tvg-name="Ligue 1: Lens vs Lyon - Ligue+ Live SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Lens vs Lyon - Ligue+ Live SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=ligue1/2026-09-19/tou-hac
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=ligue1/2026-09-19/tou-hac
+https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/tou-hac/playlist.m3u8?tk=r9-xH4Ys2mZ451hiS9T8OQ&e=1789885810
+
+#EXTINF:-1 tvg-id="1063" tvg-name="Liga Portugal Betclic: Moreirense vs Gil Vicente - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Moreirense vs Gil Vicente - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/DLLLQ.m3u8
+
+#EXTINF:-1 tvg-id="1063" tvg-name="Liga Portugal Betclic: Moreirense vs Gil Vicente - Sport Digital FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football",Liga Portugal Betclic: Moreirense vs Gil Vicente - Sport Digital FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="874" tvg-name="International Friendly Games: Argentina vs Benin - Spor TV BR FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Argentina vs Benin - Spor TV BR FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-origin=https://amazon.com
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-id="874" tvg-name="International Friendly Games: Argentina vs Benin - D SPORTS + FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Argentina vs Benin - D SPORTS + FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-id="874" tvg-name="International Friendly Games: Argentina vs Benin - TYC SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Argentina vs Benin - TYC SPORTS HD
+#EXTINF:-1 tvg-id="1070" tvg-name="Campeonato Brasileiro SÃ©rie A: RB Bragantino vs Mirassol" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football",Campeonato Brasileiro SÃ©rie A: RB Bragantino vs Mirassol
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.50/hls/HUHUHU.m3u8
-
-#EXTINF:-1 tvg-id="874" tvg-name="International Friendly Games: Argentina vs Benin - Sport TV - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Argentina vs Benin - Sport TV - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/HUHUHUX.m3u8
-
-#EXTINF:-1 tvg-id="874" tvg-name="International Friendly Games: Argentina vs Benin - Premier Sports SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Argentina vs Benin - Premier Sports SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://messi.damitv.st/live-hls/channel/mens-international-friendly/2026-10-06/arg-ben/playlist.m3u8?tk=QVqE6kmEccM1t9oAO8WyAQ&e=1791369016
-
-#EXTINF:-1 tvg-id="874" tvg-name="International Friendly Games: Argentina vs Benin - SPORT TV CZ FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Argentina vs Benin - SPORT TV CZ FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="874" tvg-name="International Friendly Games: Argentina vs Benin - MATH FOOTBALL HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Argentina vs Benin - MATH FOOTBALL HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live.dyrur1.com/live/74996592_b60f972023d07d7c62c060c396a0182d_540p.m3u8
-
-#EXTINF:-1 tvg-id="874" tvg-name="International Friendly Games: Argentina vs Benin - D SPORTS+ HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Argentina vs Benin - D SPORTS+ HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://instreams.online/live3/tv401921408/index.m3u8?st=Yyk771EiQsXAJUcAeceJkg&e=1791336618
-
-#EXTINF:-1 tvg-id="876" tvg-name="International Friendly Games: USA vs Canada - TSN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: USA vs Canada - TSN SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="876" tvg-name="International Friendly Games: USA vs Canada - NBCNY USA FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: USA vs Canada - NBCNY USA FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
-
-#EXTINF:-1 tvg-id="876" tvg-name="International Friendly Games: USA vs Canada - GHD SPORTS - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: USA vs Canada - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/f7a022c0-2874-46aa-88ab-cc421122c02c.m3u8
-
-#EXTINF:-1 tvg-id="876" tvg-name="International Friendly Games: USA vs Canada - GHD SPORTS - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: USA vs Canada - GHD SPORTS - SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/FIIIAAAAAA.m3u8
-
-#EXTINF:-1 tvg-id="877" tvg-name="International Friendly Games: Colombia vs Peru - GHD SPORTS - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Colombia vs Peru - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://instreams.pro/live3/tv401905332/index.m3u8?st=Wt8IAbe0Qkw6cPm1eJ937g&e=1791340073
-
-#EXTINF:-1 tvg-id="877" tvg-name="International Friendly Games: Colombia vs Peru - GHD SPORTS - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Colombia vs Peru - GHD SPORTS - SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/FIIIAAAA.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-name="International Friendly Games: Mexico vs Chile - GHD SPORTS - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Mexico vs Chile - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/fe0b5b41-bbd4-4ed9-99c0-303f3b4b8c0f.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-name="International Friendly Games: Mexico vs Chile - CANAL MX FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Mexico vs Chile - CANAL MX FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
-#EXTINF:-1 tvg-id="878" tvg-name="International Friendly Games: Mexico vs Chile - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Mexico vs Chile - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/DBBBQQQ.m3u8
-
-#EXTINF:-1 tvg-id="276" tvg-name="WWE NXT - FAST SERVER HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="WWE",WWE NXT - FAST SERVER HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/bttttQ.m3u8
-
-#EXTINF:-1 tvg-id="276" tvg-name="WWE NXT - GHD SPORTS - HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="WWE",WWE NXT - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
-
-#EXTINF:-1 tvg-id="276" tvg-name="WWE NXT - GHD SPORTS - HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="WWE",WWE NXT - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+http://193.47.62.59/hls/K999QQQQQ.m3u8
 
 #EXTINF:-1 tvg-id="739" tvg-name="Premier League: Arsenal vs Leeds - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Arsenal vs Leeds - FUBO SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
