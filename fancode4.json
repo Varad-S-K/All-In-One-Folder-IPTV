@@ -2,106 +2,87 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "02:52:01 PM 07-10-2026",
-    "generated_at": "2026-10-07 09:30:08",
+    "source_last_updated": "10:07:00 PM 07-10-2026",
+    "generated_at": "2026-10-07 16:45:08",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 40,
-    "live_matches_count": 5,
-    "upcoming_matches_count": 35,
+    "total_matches": 41,
+    "live_matches_count": 4,
+    "upcoming_matches_count": 37,
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4250055_ENG",
-            "title": "West Singhbhum T20 League 2026 [English]",
-            "match_name": "Manoharpur Lions vs Jagannathpur Tigers [English]",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Manoharpur Lions",
-            "team_2": "Jagannathpur Tigers",
+            "match_id": "4249658_ENG",
+            "title": "ICC CWC League 2 USA, 2026 [English]",
+            "match_name": "Namibia vs USA [English]",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
+            "team_1": "Namibia",
+            "team_2": "USA",
             "status": "LIVE",
-            "startTime": "12:30:00 PM 07-10-2026",
+            "startTime": "08:30:00 PM 07-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250055_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249658_ENG/english.m3u8"
                 }
             ]
         },
         {
-            "event_category": "Tennis",
-            "match_id": "4248809_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "World Feed [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "World Feed",
-            "team_2": "Shanghai, China",
+            "event_category": "Cricket",
+            "match_id": "4249233_ENG",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "England Champions vs West Indies Champions [English]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
+            "team_1": "England Champions",
+            "team_2": "West Indies Champions",
             "status": "LIVE",
-            "startTime": "09:30:00 AM 07-10-2026",
+            "startTime": "09:00:00 PM 07-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248809_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249233_ENG/english.m3u8"
                 }
             ]
         },
         {
-            "event_category": "Tennis",
-            "match_id": "4248811_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Grandstand 2 [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Grandstand 2",
-            "team_2": "Shanghai, China",
+            "event_category": "Cricket",
+            "match_id": "4249233_HIN",
+            "title": "World Championship of Legends, 2026 [Hindi]",
+            "match_name": "England Champions vs West Indies Champions [Hindi]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
+            "team_1": "England Champions",
+            "team_2": "West Indies Champions",
             "status": "LIVE",
-            "startTime": "09:30:00 AM 07-10-2026",
+            "startTime": "09:00:00 PM 07-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248811_ENG/english.m3u8"
+                    "language": "Hindi",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249233_HIN/hindi.m3u8"
                 }
             ]
         },
         {
-            "event_category": "Tennis",
-            "match_id": "4248812_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Show Court 3 [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Show Court 3",
-            "team_2": "Shanghai, China",
+            "event_category": "Cricket",
+            "match_id": "4250090_ENG",
+            "title": "Emirates D10, 2026 [English]",
+            "match_name": "Abu Dhabi vs Sharjah [English]",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Sharjah",
             "status": "LIVE",
-            "startTime": "09:30:00 AM 07-10-2026",
+            "startTime": "09:00:00 PM 07-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248812_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248810_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Stadium Court [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Stadium Court",
-            "team_2": "Shanghai, China",
-            "status": "LIVE",
-            "startTime": "11:00:00 AM 07-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248810_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250090_ENG/english.m3u8"
                 }
             ]
         },
@@ -116,45 +97,6 @@
             "team_2": "South Australia",
             "status": "PAUSED",
             "startTime": "05:00:00 AM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249224,
-            "title": "Australia Champions vs Bangladesh Champions (World Championship of Legends, 2026)",
-            "match_name": "Australia Champions vs Bangladesh Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249224_53069_AAC_BGC_FC-Web_1790764440661.png",
-            "team_1": "Australia Champions",
-            "team_2": "Bangladesh Champions",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249658,
-            "title": "USA vs Namibia (ICC CWC League 2 USA, 2026)",
-            "match_name": "USA vs Namibia",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
-            "team_1": "USA",
-            "team_2": "Namibia",
-            "status": "UPCOMING",
-            "startTime": "08:30:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249233,
-            "title": "England Champions vs West Indies Champions (World Championship of Legends, 2026)",
-            "match_name": "England Champions vs West Indies Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
-            "team_1": "England Champions",
-            "team_2": "West Indies Champions",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 07-10-2026",
             "user-agent": null
         },
         {
@@ -181,45 +123,6 @@
             "team_2": "Queensland",
             "status": "UPCOMING",
             "startTime": "08:00:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250088,
-            "title": "Abu Dhabi vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250088_53103_ABD_FUJ_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Fujairah",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250089,
-            "title": "Ajman vs Dubai (Emirates D10, 2026)",
-            "match_name": "Ajman vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250089_53103_AJM_DUB_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250090,
-            "title": "Sharjah vs Abu Dhabi (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Abu Dhabi",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Abu Dhabi",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 07-10-2026",
             "user-agent": null
         },
         {
@@ -327,6 +230,45 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4250093,
+            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Ajman vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250093_53103_AJM_EMR_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Emirates Red",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249605,
+            "title": "Mohun Bagan Super Giants vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Mohun Bagan Super Giants vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/IFA_Shield_FC-Web.png",
+            "team_1": "Mohun Bagan Super Giants",
+            "team_2": "East Bengal FC",
+            "status": "UPCOMING",
+            "startTime": "06:15:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250094,
+            "title": "Dubai vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Dubai vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250094_53103_DUB_FUJ_FC-WEB.jpg",
+            "team_1": "Dubai",
+            "team_2": "Fujairah",
+            "status": "UPCOMING",
+            "startTime": "11:15:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Golf",
             "match_id": 4249774,
             "title": "Day 1 - World Feed vs Yokohama Country Club - Yokohama, Japan (Baycurrent Classic 2026)",
@@ -353,42 +295,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249605,
-            "title": "Mohun Bagan Super Giants vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Mohun Bagan Super Giants vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/IFA_Shield_FC-Web.png",
-            "team_1": "Mohun Bagan Super Giants",
-            "team_2": "East Bengal FC",
-            "status": "UPCOMING",
-            "startTime": "06:15:00 PM 08-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Badminton",
             "match_id": 4250124,
             "title": "Round 16 vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
             "match_name": "Round 16",
             "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
             "team_1": "Round 16",
             "team_2": "Vantaa, Finland",
             "status": "UPCOMING",
             "startTime": "12:30:00 PM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250093,
-            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Ajman vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250093_53103_AJM_EMR_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 08-10-2026",
             "user-agent": null
         },
         {
@@ -441,19 +357,6 @@
             "team_2": "Shanghai, China",
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250094,
-            "title": "Dubai vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Dubai vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250094_53103_DUB_FUJ_FC-WEB.jpg",
-            "team_1": "Dubai",
-            "team_2": "Fujairah",
-            "status": "UPCOMING",
-            "startTime": "11:15:00 PM 08-10-2026",
             "user-agent": null
         },
         {
@@ -522,6 +425,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249781,
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "startTime": "01:00:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "MotoGP",
             "match_id": 139975,
             "title": "Day 1 vs Mandalika (PERTAMINA GRAND PRIX OF INDONESIA 2026)",
@@ -536,19 +452,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249781,
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249742,
             "title": "Malaysia vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
             "match_name": "Malaysia vs Saudi Arabia",
@@ -559,101 +462,186 @@
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 09-10-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249743,
+            "title": "China vs Hong Kong, China (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Hong Kong, China",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249743_53092_CHN_HK_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Hong Kong, China",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249744,
+            "title": "Maldives vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Maldives vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249744_53092_MDV_SIN_fc-web.jpg",
+            "team_1": "Maldives",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249775,
+            "title": "Day 2 - World Feed vs Yokohama Country Club – Yokohama, Japan (Baycurrent Classic 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Baycurrent Classic 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Yokohama Country Club – Yokohama, Japan",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4250104,
+            "title": "Day 2 vs New Korea Country Club (Aramco Korea Championship 2026)",
+            "match_name": "Day 2",
+            "event_name": "Aramco Korea Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Day 2",
+            "team_2": "New Korea Country Club",
+            "status": "UPCOMING",
+            "startTime": "10:00:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249232,
+            "title": "Australia Champions vs South Africa Champions (World Championship of Legends, 2026)",
+            "match_name": "Australia Champions vs South Africa Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249232_53069_AAC_SAC_FC-Web_1790764440838.png",
+            "team_1": "Australia Champions",
+            "team_2": "South Africa Champions",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248817,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248818,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248819,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 09-10-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4250055_ENG",
-            "title": "West Singhbhum T20 League 2026 [English]",
-            "match_name": "Manoharpur Lions vs Jagannathpur Tigers [English]",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Manoharpur Lions",
-            "team_2": "Jagannathpur Tigers",
+            "match_id": "4249658_ENG",
+            "title": "ICC CWC League 2 USA, 2026 [English]",
+            "match_name": "Namibia vs USA [English]",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
+            "team_1": "Namibia",
+            "team_2": "USA",
             "status": "LIVE",
-            "startTime": "12:30:00 PM 07-10-2026",
+            "startTime": "08:30:00 PM 07-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250055_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249658_ENG/english.m3u8"
                 }
             ]
         },
         {
-            "event_category": "Tennis",
-            "match_id": "4248809_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "World Feed [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "World Feed",
-            "team_2": "Shanghai, China",
+            "event_category": "Cricket",
+            "match_id": "4249233_ENG",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "England Champions vs West Indies Champions [English]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
+            "team_1": "England Champions",
+            "team_2": "West Indies Champions",
             "status": "LIVE",
-            "startTime": "09:30:00 AM 07-10-2026",
+            "startTime": "09:00:00 PM 07-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248809_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249233_ENG/english.m3u8"
                 }
             ]
         },
         {
-            "event_category": "Tennis",
-            "match_id": "4248811_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Grandstand 2 [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Grandstand 2",
-            "team_2": "Shanghai, China",
+            "event_category": "Cricket",
+            "match_id": "4249233_HIN",
+            "title": "World Championship of Legends, 2026 [Hindi]",
+            "match_name": "England Champions vs West Indies Champions [Hindi]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
+            "team_1": "England Champions",
+            "team_2": "West Indies Champions",
             "status": "LIVE",
-            "startTime": "09:30:00 AM 07-10-2026",
+            "startTime": "09:00:00 PM 07-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248811_ENG/english.m3u8"
+                    "language": "Hindi",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249233_HIN/hindi.m3u8"
                 }
             ]
         },
         {
-            "event_category": "Tennis",
-            "match_id": "4248812_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Show Court 3 [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Show Court 3",
-            "team_2": "Shanghai, China",
+            "event_category": "Cricket",
+            "match_id": "4250090_ENG",
+            "title": "Emirates D10, 2026 [English]",
+            "match_name": "Abu Dhabi vs Sharjah [English]",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Sharjah",
             "status": "LIVE",
-            "startTime": "09:30:00 AM 07-10-2026",
+            "startTime": "09:00:00 PM 07-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248812_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248810_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Stadium Court [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Stadium Court",
-            "team_2": "Shanghai, China",
-            "status": "LIVE",
-            "startTime": "11:00:00 AM 07-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248810_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250090_ENG/english.m3u8"
                 }
             ]
         }
@@ -674,45 +662,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249224,
-            "title": "Australia Champions vs Bangladesh Champions (World Championship of Legends, 2026)",
-            "match_name": "Australia Champions vs Bangladesh Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249224_53069_AAC_BGC_FC-Web_1790764440661.png",
-            "team_1": "Australia Champions",
-            "team_2": "Bangladesh Champions",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249658,
-            "title": "USA vs Namibia (ICC CWC League 2 USA, 2026)",
-            "match_name": "USA vs Namibia",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
-            "team_1": "USA",
-            "team_2": "Namibia",
-            "status": "UPCOMING",
-            "startTime": "08:30:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249233,
-            "title": "England Champions vs West Indies Champions (World Championship of Legends, 2026)",
-            "match_name": "England Champions vs West Indies Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
-            "team_1": "England Champions",
-            "team_2": "West Indies Champions",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249663,
             "title": "New South Wales vs Tasmania (Sheffield Shield, 2026/27)",
             "match_name": "New South Wales vs Tasmania",
@@ -735,45 +684,6 @@
             "team_2": "Queensland",
             "status": "UPCOMING",
             "startTime": "08:00:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250088,
-            "title": "Abu Dhabi vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250088_53103_ABD_FUJ_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Fujairah",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250089,
-            "title": "Ajman vs Dubai (Emirates D10, 2026)",
-            "match_name": "Ajman vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250089_53103_AJM_DUB_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250090,
-            "title": "Sharjah vs Abu Dhabi (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Abu Dhabi",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Abu Dhabi",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 07-10-2026",
             "user-agent": null
         },
         {
@@ -881,6 +791,45 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4250093,
+            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Ajman vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250093_53103_AJM_EMR_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Emirates Red",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249605,
+            "title": "Mohun Bagan Super Giants vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Mohun Bagan Super Giants vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/IFA_Shield_FC-Web.png",
+            "team_1": "Mohun Bagan Super Giants",
+            "team_2": "East Bengal FC",
+            "status": "UPCOMING",
+            "startTime": "06:15:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250094,
+            "title": "Dubai vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Dubai vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250094_53103_DUB_FUJ_FC-WEB.jpg",
+            "team_1": "Dubai",
+            "team_2": "Fujairah",
+            "status": "UPCOMING",
+            "startTime": "11:15:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Golf",
             "match_id": 4249774,
             "title": "Day 1 - World Feed vs Yokohama Country Club - Yokohama, Japan (Baycurrent Classic 2026)",
@@ -907,42 +856,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249605,
-            "title": "Mohun Bagan Super Giants vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Mohun Bagan Super Giants vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/IFA_Shield_FC-Web.png",
-            "team_1": "Mohun Bagan Super Giants",
-            "team_2": "East Bengal FC",
-            "status": "UPCOMING",
-            "startTime": "06:15:00 PM 08-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Badminton",
             "match_id": 4250124,
             "title": "Round 16 vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
             "match_name": "Round 16",
             "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
             "team_1": "Round 16",
             "team_2": "Vantaa, Finland",
             "status": "UPCOMING",
             "startTime": "12:30:00 PM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250093,
-            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Ajman vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250093_53103_AJM_EMR_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 08-10-2026",
             "user-agent": null
         },
         {
@@ -995,19 +918,6 @@
             "team_2": "Shanghai, China",
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250094,
-            "title": "Dubai vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Dubai vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250094_53103_DUB_FUJ_FC-WEB.jpg",
-            "team_1": "Dubai",
-            "team_2": "Fujairah",
-            "status": "UPCOMING",
-            "startTime": "11:15:00 PM 08-10-2026",
             "user-agent": null
         },
         {
@@ -1076,6 +986,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249781,
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "startTime": "01:00:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "MotoGP",
             "match_id": 139975,
             "title": "Day 1 vs Mandalika (PERTAMINA GRAND PRIX OF INDONESIA 2026)",
@@ -1090,19 +1013,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249781,
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249742,
             "title": "Malaysia vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
             "match_name": "Malaysia vs Saudi Arabia",
@@ -1112,6 +1022,110 @@
             "team_2": "Saudi Arabia",
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249743,
+            "title": "China vs Hong Kong, China (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Hong Kong, China",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249743_53092_CHN_HK_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Hong Kong, China",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249744,
+            "title": "Maldives vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Maldives vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249744_53092_MDV_SIN_fc-web.jpg",
+            "team_1": "Maldives",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249775,
+            "title": "Day 2 - World Feed vs Yokohama Country Club – Yokohama, Japan (Baycurrent Classic 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Baycurrent Classic 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Yokohama Country Club – Yokohama, Japan",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4250104,
+            "title": "Day 2 vs New Korea Country Club (Aramco Korea Championship 2026)",
+            "match_name": "Day 2",
+            "event_name": "Aramco Korea Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Day 2",
+            "team_2": "New Korea Country Club",
+            "status": "UPCOMING",
+            "startTime": "10:00:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249232,
+            "title": "Australia Champions vs South Africa Champions (World Championship of Legends, 2026)",
+            "match_name": "Australia Champions vs South Africa Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249232_53069_AAC_SAC_FC-Web_1790764440838.png",
+            "team_1": "Australia Champions",
+            "team_2": "South Africa Champions",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248817,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248818,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248819,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 09-10-2026",
             "user-agent": null
         }
     ]

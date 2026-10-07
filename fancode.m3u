@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" group-title="Fancode-Cricket", West Singhbhum T20 League 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250055_english_hls_c9abca108990169_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791442206~_GO=Generated~acl=/mumbai/4250055_english_hls_c9abca108990169_1ta-di_h264/*~Signature=AXZsC1DYKjfZ4UwTTedRuh5LUMl8kjfCSvigg1SyZQ3rykzKhQSOJWof_is74nct5ZIbpFS63nFH6jszRTZZS54rs50C
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png" group-title="Fancode-Cricket", ICC CWC League 2 USA, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249658_english_hls_452eb19a455708_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791471355~_GO=Generated~acl=/mumbai/4249658_english_hls_452eb19a455708_1ta-di_h264/*~SessionID=68af7a8f728b9df6_fc-app_sportsguruand_acf82844-9c6c-4f~Signature=AXZsC1BFtuTmkR4MV6wq0ao-cGgsegqlH74Yj0WaX1TxLNy0lpC2e_dyXD8OSQs3w9pLrdejMr0O5Rc7zzJRVykTLfUF
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode-Tennis", ATP Masters - Rolex Shanghai Masters [English]
-https://in-mc-flive.fancode.com/mumbai/4248809_english_hls_59b8a894ac27038_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791431290~_GO=Generated~acl=/mumbai/4248809_english_hls_59b8a894ac27038_1ta-di_h264/*~Signature=AXZsC1AozuBOPSFIniH8Fy0Gex824kqsWRYre7rNQLQi1rywiBH4NsytN46kqHJ_OPzlSuvTuG1pn3E3Yeuq9LS8y50I
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png" group-title="Fancode-Cricket", World Championship of Legends, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249233_english_hls_d56498d36655509_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791471355~_GO=Generated~acl=/mumbai/4249233_english_hls_d56498d36655509_1ta-di_h264/*~SessionID=68af7a8f728b9df6_fc-app_sportsguruand_b9eea84e-acf5-4f~Signature=AXZsC1B6TEjUOQnbPHvD_NwTi9fHNX-ldqPIRwL1TX2CxwG3IXJA8H9qaTIzVCb7xm3kTC0KF2zJzDRN7icV7hOXRx8E
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode-Tennis", ATP Masters - Rolex Shanghai Masters [English]
-https://in-mc-flive.fancode.com/mumbai/4248811_english_hls_9911f305b738415_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791431291~_GO=Generated~acl=/mumbai/4248811_english_hls_9911f305b738415_1ta-di_h264/*~Signature=AXZsC1AH81ej-BHQU5R413zUOpkoNm49cGxte0Yy8P6KpqFm-N4_MBiVV3ZA76MtDWLvQF3bmPbtTx0UoT2KNOu_JuEB
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png" group-title="Fancode-Cricket", World Championship of Legends, 2026 [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4249233_hindi_hls_2e75e343d930961_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791471355~_GO=Generated~acl=/mumbai/4249233_hindi_hls_2e75e343d930961_1ta-di_h264/*~SessionID=68af7a8f728b9df6_fc-app_sportsguruand_e1dc9dbb-8389-41~Signature=AXZsC1BXvTvxcbuv1aEHNED23L9-UZr7M6YYj62eZ1mJDf7prVBbX5M0pFXi6YkV2kjNd7bcc4XTAWPHZtM7GmolTlkF
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode-Tennis", ATP Masters - Rolex Shanghai Masters [English]
-https://in-mc-flive.fancode.com/mumbai/4248812_english_hls_e38693a95274388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791431293~_GO=Generated~acl=/mumbai/4248812_english_hls_e38693a95274388_1ta-di_h264/*~Signature=AXZsC1CJYq36pZTwn7W0RWjBT4EqFl6ob-tHgBIVjJmPZQkljBTaycG-_ykRoSDbQDRmFskuUIbELTDlS8I1GwUvYyUF
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode-Tennis", ATP Masters - Rolex Shanghai Masters [English]
-https://in-mc-flive.fancode.com/mumbai/4248810_english_hls_0f627da36a15946_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791436752~_GO=Generated~acl=/mumbai/4248810_english_hls_0f627da36a15946_1ta-di_h264/*~Signature=AXZsC1APmU0Ac3CPHvFcWaJipiFwl3edGhVTCyXB3C-Ih2ES3nX9GE8ROIZ5NM1PlktqU9_z1SWTamjyO3Fjw0H-DzMH
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250068_53103_SHA_ABD_FC-WEB.jpg" group-title="Fancode-Cricket", Emirates D10, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250090_english_hls_76e7c296c029557_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791472571~_GO=Generated~acl=/mumbai/4250090_english_hls_76e7c296c029557_1ta-di_h264/*~SessionID=a2cc75b7d04d127d_fc-app_sportsguruand_16bf6723-23ca-40~Signature=AXZsC1B7P3Qsy_y7-FSjTCDXkiU-3K97Dwv37OCMHF3kvI1Ppk4fvbOePanWJBaSWJGzOcD6QRJi5TBjpRr74R6x8akO
 
