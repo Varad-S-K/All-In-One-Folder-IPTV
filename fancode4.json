@@ -2,58 +2,89 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "02:59:41 AM 08-10-2026",
-    "generated_at": "2026-10-07 21:35:08",
+    "source_last_updated": "06:41:58 AM 08-10-2026",
+    "generated_at": "2026-10-08 01:20:10",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 1,
-    "upcoming_matches_count": 39,
+    "live_matches_count": 4,
+    "upcoming_matches_count": 36,
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249658_ENG",
-            "title": "ICC CWC League 2 USA, 2026 [English]",
-            "match_name": "Namibia vs USA [English]",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
-            "team_1": "Namibia",
-            "team_2": "USA",
+            "match_id": "4249663_ENG",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs New South Wales [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
             "status": "LIVE",
-            "startTime": "08:30:00 PM 07-10-2026",
+            "startTime": "05:00:00 AM 08-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249658_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249663_ENG/english.m3u8"
                 }
             ]
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249662,
-            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
-            "match_name": "Victoria vs South Australia",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "startTime": "05:00:00 AM 07-10-2026",
-            "user-agent": null
+            "match_id": "4249724_ENG",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Thailand vs Kuwait [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Thailand",
+            "team_2": "Kuwait",
+            "status": "LIVE",
+            "startTime": "06:45:00 AM 08-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249724_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249663,
-            "title": "New South Wales vs Tasmania (Sheffield Shield, 2026/27)",
-            "match_name": "New South Wales vs Tasmania",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Tasmania",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 AM 08-10-2026",
-            "user-agent": null
+            "match_id": "4249725_ENG",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Bhutan vs Mongolia [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Bhutan",
+            "team_2": "Mongolia",
+            "status": "LIVE",
+            "startTime": "06:45:00 AM 08-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249725_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249726_ENG",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Myanmar vs Bahrain [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Myanmar",
+            "team_2": "Bahrain",
+            "status": "LIVE",
+            "startTime": "06:45:00 AM 08-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249726_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
@@ -66,45 +97,6 @@
             "team_2": "Queensland",
             "status": "UPCOMING",
             "startTime": "08:00:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249724,
-            "title": "Kuwait vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Kuwait vs Thailand",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Kuwait",
-            "team_2": "Thailand",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249725,
-            "title": "Bhutan vs Mongolia (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Bhutan vs Mongolia",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bhutan",
-            "team_2": "Mongolia",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249726,
-            "title": "Bahrain vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Bahrain vs Myanmar",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bahrain",
-            "team_2": "Myanmar",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 08-10-2026",
             "user-agent": null
         },
         {
@@ -196,6 +188,71 @@
             "team_2": "East Bengal FC",
             "status": "UPCOMING",
             "startTime": "06:15:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249727,
+            "title": "Mongolia vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Mongolia vs Thailand",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Mongolia",
+            "team_2": "Thailand",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249728,
+            "title": "Bahrain vs Kuwait (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Bahrain vs Kuwait",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Bahrain",
+            "team_2": "Kuwait",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249729,
+            "title": "Qatar vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Qatar vs Myanmar",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Qatar",
+            "team_2": "Myanmar",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249693,
+            "title": "Afghanistan vs Bangladesh (Bangladesh tour of Afghanistan in UAE, 2026)",
+            "match_name": "Afghanistan vs Bangladesh",
+            "event_name": "Bangladesh tour of Afghanistan in UAE, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250113,
+            "title": "Oman vs Canada (ICC CWC League 2 Oman, 2026)",
+            "match_name": "Oman vs Canada",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250113_53106_OMA_CAN_fc-Web.png",
+            "team_1": "Oman",
+            "team_2": "Canada",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 AM 09-10-2026",
             "user-agent": null
         },
         {
@@ -304,71 +361,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249727,
-            "title": "Mongolia vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Mongolia vs Thailand",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Mongolia",
-            "team_2": "Thailand",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249728,
-            "title": "Bahrain vs Kuwait (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Bahrain vs Kuwait",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bahrain",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249729,
-            "title": "Qatar vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Qatar vs Myanmar",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Qatar",
-            "team_2": "Myanmar",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249693,
-            "title": "Afghanistan vs Bangladesh (Bangladesh tour of Afghanistan in UAE, 2026)",
-            "match_name": "Afghanistan vs Bangladesh",
-            "event_name": "Bangladesh tour of Afghanistan in UAE, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250113,
-            "title": "Oman vs Canada (ICC CWC League 2 Oman, 2026)",
-            "match_name": "Oman vs Canada",
-            "event_name": "ICC CWC League 2 Oman, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250113_53106_OMA_CAN_fc-Web.png",
-            "team_1": "Oman",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249781,
             "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
             "match_name": "South Africa vs Australia",
@@ -433,19 +425,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249775,
-            "title": "Day 2 - World Feed vs Yokohama Country Club – Yokohama, Japan (Baycurrent Classic 2026)",
-            "match_name": "Day 2 - World Feed",
-            "event_name": "Baycurrent Classic 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Yokohama Country Club – Yokohama, Japan",
-            "status": "UPCOMING",
-            "startTime": "08:30:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249232,
             "title": "Australia Champions vs South Africa Champions (World Championship of Legends, 2026)",
@@ -460,6 +439,19 @@
         },
         {
             "event_category": "Golf",
+            "match_id": 4249775,
+            "title": "Day 2 - World Feed vs Yokohama Country Club – Yokohama, Japan (Baycurrent Classic 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Baycurrent Classic 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Yokohama Country Club – Yokohama, Japan",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
             "match_id": 4250104,
             "title": "Day 2 vs New Korea Country Club (Aramco Korea Championship 2026)",
             "match_name": "Day 2",
@@ -469,6 +461,19 @@
             "team_2": "New Korea Country Club",
             "status": "UPCOMING",
             "startTime": "10:00:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249659,
+            "title": "Namibia vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
+            "match_name": "Namibia vs United Arab Emirates",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
+            "team_1": "Namibia",
+            "team_2": "United Arab Emirates",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 PM 09-10-2026",
             "user-agent": null
         },
         {
@@ -525,35 +530,105 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249659,
-            "title": "Namibia vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
-            "match_name": "Namibia vs United Arab Emirates",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
-            "team_1": "Namibia",
-            "team_2": "United Arab Emirates",
+            "match_id": 4250095,
+            "title": "Emirates Blues vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250095_53103_EMB_FUJ_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Fujairah",
             "status": "UPCOMING",
-            "startTime": "08:30:00 PM 09-10-2026",
+            "startTime": "06:45:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249227,
+            "title": "Bangladesh Champions vs West Indies Champions (World Championship of Legends, 2026)",
+            "match_name": "Bangladesh Champions vs West Indies Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
+            "team_1": "Bangladesh Champions",
+            "team_2": "West Indies Champions",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 PM 09-10-2026",
             "user-agent": null
         }
     ],
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249658_ENG",
-            "title": "ICC CWC League 2 USA, 2026 [English]",
-            "match_name": "Namibia vs USA [English]",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
-            "team_1": "Namibia",
-            "team_2": "USA",
+            "match_id": "4249663_ENG",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs New South Wales [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
             "status": "LIVE",
-            "startTime": "08:30:00 PM 07-10-2026",
+            "startTime": "05:00:00 AM 08-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249658_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249663_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249724_ENG",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Thailand vs Kuwait [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Thailand",
+            "team_2": "Kuwait",
+            "status": "LIVE",
+            "startTime": "06:45:00 AM 08-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249724_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249725_ENG",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Bhutan vs Mongolia [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Bhutan",
+            "team_2": "Mongolia",
+            "status": "LIVE",
+            "startTime": "06:45:00 AM 08-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249725_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249726_ENG",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Myanmar vs Bahrain [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Myanmar",
+            "team_2": "Bahrain",
+            "status": "LIVE",
+            "startTime": "06:45:00 AM 08-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249726_ENG/english.m3u8"
                 }
             ]
         }
@@ -561,32 +636,6 @@
     "upcoming_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249662,
-            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
-            "match_name": "Victoria vs South Australia",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "startTime": "05:00:00 AM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249663,
-            "title": "New South Wales vs Tasmania (Sheffield Shield, 2026/27)",
-            "match_name": "New South Wales vs Tasmania",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Tasmania",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249664,
             "title": "Western Australia vs Queensland (Sheffield Shield, 2026/27)",
             "match_name": "Western Australia vs Queensland",
@@ -596,45 +645,6 @@
             "team_2": "Queensland",
             "status": "UPCOMING",
             "startTime": "08:00:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249724,
-            "title": "Kuwait vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Kuwait vs Thailand",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Kuwait",
-            "team_2": "Thailand",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249725,
-            "title": "Bhutan vs Mongolia (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Bhutan vs Mongolia",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bhutan",
-            "team_2": "Mongolia",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249726,
-            "title": "Bahrain vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Bahrain vs Myanmar",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bahrain",
-            "team_2": "Myanmar",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 08-10-2026",
             "user-agent": null
         },
         {
@@ -726,6 +736,71 @@
             "team_2": "East Bengal FC",
             "status": "UPCOMING",
             "startTime": "06:15:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249727,
+            "title": "Mongolia vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Mongolia vs Thailand",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Mongolia",
+            "team_2": "Thailand",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249728,
+            "title": "Bahrain vs Kuwait (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Bahrain vs Kuwait",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Bahrain",
+            "team_2": "Kuwait",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249729,
+            "title": "Qatar vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
+            "match_name": "Qatar vs Myanmar",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Qatar",
+            "team_2": "Myanmar",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249693,
+            "title": "Afghanistan vs Bangladesh (Bangladesh tour of Afghanistan in UAE, 2026)",
+            "match_name": "Afghanistan vs Bangladesh",
+            "event_name": "Bangladesh tour of Afghanistan in UAE, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250113,
+            "title": "Oman vs Canada (ICC CWC League 2 Oman, 2026)",
+            "match_name": "Oman vs Canada",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250113_53106_OMA_CAN_fc-Web.png",
+            "team_1": "Oman",
+            "team_2": "Canada",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 AM 09-10-2026",
             "user-agent": null
         },
         {
@@ -834,71 +909,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249727,
-            "title": "Mongolia vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Mongolia vs Thailand",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Mongolia",
-            "team_2": "Thailand",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249728,
-            "title": "Bahrain vs Kuwait (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Bahrain vs Kuwait",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bahrain",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249729,
-            "title": "Qatar vs Myanmar (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Qatar vs Myanmar",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Qatar",
-            "team_2": "Myanmar",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249693,
-            "title": "Afghanistan vs Bangladesh (Bangladesh tour of Afghanistan in UAE, 2026)",
-            "match_name": "Afghanistan vs Bangladesh",
-            "event_name": "Bangladesh tour of Afghanistan in UAE, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250113,
-            "title": "Oman vs Canada (ICC CWC League 2 Oman, 2026)",
-            "match_name": "Oman vs Canada",
-            "event_name": "ICC CWC League 2 Oman, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250113_53106_OMA_CAN_fc-Web.png",
-            "team_1": "Oman",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249781,
             "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
             "match_name": "South Africa vs Australia",
@@ -963,19 +973,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249775,
-            "title": "Day 2 - World Feed vs Yokohama Country Club – Yokohama, Japan (Baycurrent Classic 2026)",
-            "match_name": "Day 2 - World Feed",
-            "event_name": "Baycurrent Classic 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Yokohama Country Club – Yokohama, Japan",
-            "status": "UPCOMING",
-            "startTime": "08:30:00 AM 09-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249232,
             "title": "Australia Champions vs South Africa Champions (World Championship of Legends, 2026)",
@@ -990,6 +987,19 @@
         },
         {
             "event_category": "Golf",
+            "match_id": 4249775,
+            "title": "Day 2 - World Feed vs Yokohama Country Club – Yokohama, Japan (Baycurrent Classic 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Baycurrent Classic 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Yokohama Country Club – Yokohama, Japan",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
             "match_id": 4250104,
             "title": "Day 2 vs New Korea Country Club (Aramco Korea Championship 2026)",
             "match_name": "Day 2",
@@ -999,6 +1009,19 @@
             "team_2": "New Korea Country Club",
             "status": "UPCOMING",
             "startTime": "10:00:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249659,
+            "title": "Namibia vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
+            "match_name": "Namibia vs United Arab Emirates",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
+            "team_1": "Namibia",
+            "team_2": "United Arab Emirates",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 PM 09-10-2026",
             "user-agent": null
         },
         {
@@ -1055,15 +1078,28 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249659,
-            "title": "Namibia vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
-            "match_name": "Namibia vs United Arab Emirates",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
-            "team_1": "Namibia",
-            "team_2": "United Arab Emirates",
+            "match_id": 4250095,
+            "title": "Emirates Blues vs Fujairah (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Fujairah",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250095_53103_EMB_FUJ_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Fujairah",
             "status": "UPCOMING",
-            "startTime": "08:30:00 PM 09-10-2026",
+            "startTime": "06:45:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249227,
+            "title": "Bangladesh Champions vs West Indies Champions (World Championship of Legends, 2026)",
+            "match_name": "Bangladesh Champions vs West Indies Champions",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
+            "team_1": "Bangladesh Champions",
+            "team_2": "West Indies Champions",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 PM 09-10-2026",
             "user-agent": null
         }
     ]
