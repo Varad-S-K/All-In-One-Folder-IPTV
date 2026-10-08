@@ -1,47 +1,38 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (2 channels) =====
+#===== Fancode | Sportlink (1 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 8 October 2026 at 9:21:21 pm
-
-#EXTINF:-1 tvg-id="4250093" tvg-name="Emirates Red Vs Ajman @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250093_53103_AJM_EMR_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Emirates Red Vs Ajman
-https://dai-fancode.pages.dev/mumbai/4250093_english_hls_37b452864f41491_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#===== SonyLIV | Sportlink (4 channels) =====
-#EXTINF:-1 tvg-name="Haryana Hurricanes vs Delhi Dynamites  - 8 Oct 2026 [ENG] - Volleyball Champions League 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791372668784475_VCL_Haryana-Hurricanes-vs-Delhi-Dynamites_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Haryana Hurricanes vs Delhi Dynamites  - 8 Oct 2026 [ENG] - Volleyball Champions League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791519204~acl=/*~id=80926174786146425741839574954564~hmac=9edd8d3cd3f91a316bd1e82f97e1866a4f20667e864f701a714af4055a54b392
-
-#EXTINF:-1 tvg-name="Haryana Hurricanes vs Delhi Dynamites  - 8 Oct 2026 [HIN] - Volleyball Champions League 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791372668784475_VCL_Haryana-Hurricanes-vs-Delhi-Dynamites_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Haryana Hurricanes vs Delhi Dynamites  - 8 Oct 2026 [HIN] - Volleyball Champions League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791519204~acl=/*~id=80926174786146425741839574954564~hmac=9edd8d3cd3f91a316bd1e82f97e1866a4f20667e864f701a714af4055a54b392
-
-#EXTINF:-1 tvg-name="Chola Chiefs vs Chero Archers - 8 Oct 2026 [ENG] - Archery Premier League 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025915/1791271887266161_APL26_Chola-Chiefs-vs-Chero-Archers_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chola Chiefs vs Chero Archers - 8 Oct 2026 [ENG] - Archery Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791519204~acl=/*~id=80926174786146425741839574954564~hmac=9edd8d3cd3f91a316bd1e82f97e1866a4f20667e864f701a714af4055a54b392
-
-#EXTINF:-1 tvg-name="Open de Espana Presented By Madrid - Day 1 - 8 Oct 2026 [ENG] - DP World Tour @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Open de Espana Presented By Madrid - Day 1 - 8 Oct 2026 [ENG] - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791519204~acl=/*~id=80926174786146425741839574954564~hmac=9edd8d3cd3f91a316bd1e82f97e1866a4f20667e864f701a714af4055a54b392
+# Last Checked: Friday, 9 October 2026 at 1:21:16 am
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 PM 08-10-2026
+#LAST_UPDATE:03:02 AM 09-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
-#===== Prime Video | Sportlink (2 channels) =====
+#===== Prime Video | Sportlink (3 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:02 PM 08-10-2026
+#LAST_UPDATE:03:02 AM 09-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
 
-#EXTINF:-1 tvg-id="B0HK86PQQV" tvg-name="FloWrestling Radio Live - Episode 25 @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fc2ffbcf-baa8-4dde-86c4-848abc116841/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",FloWrestling Radio Live - Episode 25
+#EXTINF:-1 tvg-id="B0HK6BQPVG" tvg-name="PPA Tour Chicago Cup: Round of 16 @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1c19ab68-2781-4c50-be5a-92264a5e689d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",PPA Tour Chicago Cup: Round of 16
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HK3GWML6" tvg-name="American Championships: Lake Havasu, Second Round @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bd8cc830-d78b-40c4-98a2-df257c684343/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",American Championships: Lake Havasu, Second Round
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #===== AXS | Sportlink (1 channels) =====
 #name: Axsports Auto Update Playlist
