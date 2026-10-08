@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:01:20 AM 10-08-2026
+#LAST_UPDATE:07:33 AM 10-08-2026
 #Created by - Sayan 10
 #EXTINF:-1 tvg-id="12" tvg-name="WEST INDIES TOUR OF INDIA: IND vs WI - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",WEST INDIES TOUR OF INDIA: IND vs WI - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -97,6 +97,85 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4249657_english_hls_564ff93f9840854_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - Willow Cricbuzz - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07dc2346823644f4fc76855ac0b28934:f390daae70c6db7787471e7790ef55e3
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - SonyLiv HIN - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - SonyLiv HIN - AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1809/HIN/master.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - SonyLiv ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - SonyLiv ENG - AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1809/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - SonyLiv TAM - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - SonyLiv TAM - AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi1809/TAM/master.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - SonyLiv TEL - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - SonyLiv TEL - AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi1809/TEL/master.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - SonyLiv KAN - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - SonyLiv KAN - AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1809/KAN/master.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - PTV SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - PTV SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://baila-lentoo.pages.dev/nwp/809398.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="ICC Women's Championship: AUS-W vs BAN-W - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket",ICC Women's Championship: AUS-W vs BAN-W - Willow Cricbuzz - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd
+
+#EXTINF:-1 tvg-id="21" tvg-name="ICC Women's Championship: AUS-W vs BAN-W - FANCODE ENG FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket",ICC Women's Championship: AUS-W vs BAN-W - FANCODE ENG FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="21" tvg-name="ICC Women's Championship: AUS-W vs BAN-W - SKY SPORTS+ HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket",ICC Women's Championship: AUS-W vs BAN-W - SKY SPORTS+ HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/fafafaAA.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="ICC Women's Championship: AUS-W vs BAN-W - FANCODE ENG - (IN IP)" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket",ICC Women's Championship: AUS-W vs BAN-W - FANCODE ENG - (IN IP)
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -159,8 +238,10 @@ http://193.47.62.41/hls/TATATAAAAAQQQ.m3u8
 #EXTINF:-1 tvg-id="735" tvg-name="Campeonato Brasileiro SÃ©rie A: Internacional vs Corinthians - Premier Sports BR" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football",Campeonato Brasileiro SÃ©rie A: Internacional vs Corinthians - Premier Sports BR
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/bbbbaqqqq.m3u8
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.41/hls/KYYYQQQ.m3u8
 
 #EXTINF:-1 tvg-id="756" tvg-name="LaLiga: MÃ¡laga vs Espanyol - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: MÃ¡laga vs Espanyol - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -256,8 +337,34 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 #EXTINF:-1 tvg-id="1070" tvg-name="Campeonato Brasileiro SÃ©rie A: RB Bragantino vs Mirassol" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football",Campeonato Brasileiro SÃ©rie A: RB Bragantino vs Mirassol
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/K999QQQQQ.m3u8
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.41/hls/KYYYQQ.m3u8
+
+#EXTINF:-1 tvg-id="1136" tvg-name="Campeonato Brasileiro SÃ©rie A: Remo vs GrÃªmio" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football",Campeonato Brasileiro SÃ©rie A: Remo vs GrÃªmio
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.41/hls/KYYYQQQQ.m3u8
+
+#EXTINF:-1 tvg-id="1137" tvg-name="Campeonato Brasileiro SÃ©rie A: Botafogo vs Vasco" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football",Campeonato Brasileiro SÃ©rie A: Botafogo vs Vasco
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.59/hls/KIKIKIQQQQQA.m3u8
+
+#EXTINF:-1 tvg-id="1138" tvg-name="Campeonato Brasileiro SÃ©rie A: VitÃ³ria vs Chapecoense" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football",Campeonato Brasileiro SÃ©rie A: VitÃ³ria vs Chapecoense
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.59/hls/KIKIKIQQ.m3u8
 
 #EXTINF:-1 tvg-id="739" tvg-name="Premier League: Arsenal vs Leeds - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Arsenal vs Leeds - FUBO SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
