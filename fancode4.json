@@ -2,68 +2,125 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "07:22:41 PM 09-10-2026",
-    "generated_at": "2026-10-09 14:00:04",
+    "source_last_updated": "12:56:39 AM 10-10-2026",
+    "generated_at": "2026-10-09 19:30:24",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 33,
-    "live_matches_count": 3,
-    "upcoming_matches_count": 30,
+    "total_matches": 40,
+    "live_matches_count": 6,
+    "upcoming_matches_count": 34,
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4250095_ENG",
-            "title": "Emirates D10, 2026 [English]",
-            "match_name": "Emirates Blues vs Fujairah [English]",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250095_53103_EMB_FUJ_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Fujairah",
+            "match_id": "4249659_ENG",
+            "title": "ICC CWC League 2 USA, 2026 [English]",
+            "match_name": "United Arab Emirates vs Namibia [English]",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "Namibia",
             "status": "LIVE",
-            "startTime": "06:45:00 PM 09-10-2026",
+            "startTime": "08:30:00 PM 09-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250095_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249659_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249227_ENG",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "Bangladesh Champions vs West Indies Champions [English]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
+            "team_1": "Bangladesh Champions",
+            "team_2": "West Indies Champions",
+            "status": "LIVE",
+            "startTime": "09:00:00 PM 09-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249227_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249227_HIN",
+            "title": "World Championship of Legends, 2026 [Hindi]",
+            "match_name": "Bangladesh Champions vs West Indies Champions [Hindi]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
+            "team_1": "Bangladesh Champions",
+            "team_2": "West Indies Champions",
+            "status": "LIVE",
+            "startTime": "09:00:00 PM 09-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "Hindi",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249227_HIN/hindi.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4250097_ENG",
+            "title": "Emirates D10, 2026 [English]",
+            "match_name": "Emirates Blues vs Emirates Red [English]",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250097_53103_EMB_EMR_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Emirates Red",
+            "status": "LIVE",
+            "startTime": "11:15:00 PM 09-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250097_ENG/english.m3u8"
                 }
             ]
         },
         {
             "event_category": "Football",
-            "match_id": "4249136_ENG",
+            "match_id": "4249138_ENG",
             "title": "Roshn Saudi League 2026-2027 [English]",
-            "match_name": "Al-Kholood Club vs Al-Qadsiah FC [English]",
+            "match_name": "Al-Nassr FC vs Diriyah [English]",
             "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249136_53025_ALK_ALQ_FC-Web.png",
-            "team_1": "Al-Kholood Club",
-            "team_2": "Al-Qadsiah FC",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249138_53025_ANF_DIR_FC-Web.png",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Diriyah",
             "status": "LIVE",
-            "startTime": "07:20:00 PM 09-10-2026",
+            "startTime": "11:30:00 PM 09-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249136_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249138_ENG/english.m3u8"
                 }
             ]
         },
         {
-            "event_category": "Motorsports",
-            "match_id": "4250133_ENG",
-            "title": "DTM 2026 [English]",
-            "match_name": "Free Practice 2 [English]",
-            "event_name": "DTM 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-            "team_1": "Free Practice 2",
-            "team_2": "Hockenheimring",
+            "event_category": "Football",
+            "match_id": "4249588_ENG",
+            "title": "EFL Championship 2026-27 [English]",
+            "match_name": "West Ham United vs Queens Park Rangers F.C. [English]",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249588_52993_WHU_QPR_fc-web.jpg",
+            "team_1": "West Ham United",
+            "team_2": "Queens Park Rangers F.C.",
             "status": "LIVE",
-            "startTime": "06:55:00 PM 09-10-2026",
+            "startTime": "12:30:00 AM 10-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250133_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249588_ENG/english.m3u8"
                 }
             ]
         },
@@ -121,106 +178,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249659,
-            "title": "Namibia vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
-            "match_name": "Namibia vs United Arab Emirates",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
-            "team_1": "Namibia",
-            "team_2": "United Arab Emirates",
-            "status": "UPCOMING",
-            "startTime": "08:30:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249227,
-            "title": "Bangladesh Champions vs West Indies Champions (World Championship of Legends, 2026)",
-            "match_name": "Bangladesh Champions vs West Indies Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
-            "team_1": "Bangladesh Champions",
-            "team_2": "West Indies Champions",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250096,
-            "title": "Sharjah vs Ajman (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Ajman",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250096_53103_SHA_AJM_FC-WEB.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Ajman",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250097,
-            "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Emirates Blues vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250097_53103_EMB_EMR_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "11:15:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249137,
-            "title": "Al-Fateh SC vs Al-Ahli Saudi FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Fateh SC vs Al-Ahli Saudi FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249137_53025_AFF_AAS_FC-Web.png",
-            "team_1": "Al-Fateh SC",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "UPCOMING",
-            "startTime": "08:25:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249138,
-            "title": "Al-Nassr FC vs Diriyah (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Nassr FC vs Diriyah",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249138_53025_ANF_DIR_FC-Web.png",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Diriyah",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4247646,
-            "title": "Malaga vs RCD Espanyol (LALIGA 2026-27)",
-            "match_name": "Malaga vs RCD Espanyol",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247646_53004_MAG_ESL_FC-Web.png",
-            "team_1": "Malaga",
-            "team_2": "RCD Espanyol",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 10-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249588,
-            "title": "West Ham United vs Queens Park Rangers F.C. (EFL Championship 2026-27)",
-            "match_name": "West Ham United vs Queens Park Rangers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249588_52993_WHU_QPR_fc-web.jpg",
-            "team_1": "West Ham United",
-            "team_2": "Queens Park Rangers F.C.",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 10-10-2026",
+            "match_id": 4249781,
+            "title": "Australia vs South Africa (Australia tour of South Africa, 2026)",
+            "match_name": "Australia vs South Africa",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+            "team_1": "Australia",
+            "team_2": "South Africa",
+            "status": "PAUSED",
+            "startTime": "01:00:00 PM 09-10-2026",
             "user-agent": null
         },
         {
@@ -341,6 +307,32 @@
             "user-agent": null
         },
         {
+            "event_category": "Football",
+            "match_id": 4249139,
+            "title": "Al Hilal SFC vs Al-Ittihad (Roshn Saudi League 2026-2027)",
+            "match_name": "Al Hilal SFC vs Al-Ittihad",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Ittihad",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4247644,
+            "title": "Real Madrid vs Villarreal CF (LALIGA 2026-27)",
+            "match_name": "Real Madrid vs Villarreal CF",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247644_53004_RM_VIL_FC-Web.png",
+            "team_1": "Real Madrid",
+            "team_2": "Villarreal CF",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 11-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "MotoGP",
             "match_id": 139976,
             "title": "Day 2 vs Mandalika (PERTAMINA GRAND PRIX OF INDONESIA 2026)",
@@ -377,19 +369,6 @@
             "team_2": "New Korea Country Club",
             "status": "UPCOMING",
             "startTime": "09:30:00 AM 10-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249139,
-            "title": "Al Hilal SFC vs Al-Ittihad (Roshn Saudi League 2026-2027)",
-            "match_name": "Al Hilal SFC vs Al-Ittihad",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Ittihad",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 PM 10-10-2026",
             "user-agent": null
         },
         {
@@ -456,63 +435,250 @@
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 10-10-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": 4250126,
+            "title": "Semi-Final vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
+            "match_name": "Semi-Final",
+            "event_name": "BWF Super 500 - Arctic Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
+            "team_1": "Semi-Final",
+            "team_2": "Vantaa, Finland",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": 139499,
+            "title": "Sprint vs Marina Bay Street Circuit (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026)",
+            "match_name": "Sprint",
+            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+            "team_1": "Sprint",
+            "team_2": "Marina Bay Street Circuit",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4250137,
+            "title": "ADAC GT4 Germany - Race 1 vs Hockenheimring (DTM 2026)",
+            "match_name": "ADAC GT4 Germany - Race 1",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC_GT4_Web-match-card.png",
+            "team_1": "ADAC GT4 Germany - Race 1",
+            "team_2": "Hockenheimring",
+            "status": "UPCOMING",
+            "startTime": "03:05:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4250135,
+            "title": "Race 1 vs Hockenheimring (DTM 2026)",
+            "match_name": "Race 1",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
+            "team_1": "Race 1",
+            "team_2": "Hockenheimring",
+            "status": "UPCOMING",
+            "startTime": "04:25:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": 139500,
+            "title": "Qualifying vs Marina Bay Street Circuit (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026)",
+            "match_name": "Qualifying",
+            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Marina Bay Street Circuit",
+            "status": "UPCOMING",
+            "startTime": "06:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4250136,
+            "title": "ADAC GT Masters - Race 1 vs Hockenheimring (DTM 2026)",
+            "match_name": "ADAC GT Masters - Race 1",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
+            "team_1": "ADAC GT Masters - Race 1",
+            "team_2": "Hockenheimring",
+            "status": "UPCOMING",
+            "startTime": "06:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4250152,
+            "title": "ADAC GT4 Germany - Race 2 vs Germany (DTM 2026)",
+            "match_name": "ADAC GT4 Germany - Race 2",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC_GT4_Web-match-card.png",
+            "team_1": "ADAC GT4 Germany - Race 2",
+            "team_2": "Germany",
+            "status": "UPCOMING",
+            "startTime": "08:45:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249745,
+            "title": "Hong Kong, China vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Hong Kong, China vs Saudi Arabia",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249745_53092_HK_SDA_fc-web.jpg",
+            "team_1": "Hong Kong, China",
+            "team_2": "Saudi Arabia",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 11-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249746,
+            "title": "Malaysia vs Maldives (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Malaysia vs Maldives",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249746_53092_MAS_MDV_fc-web.jpg",
+            "team_1": "Malaysia",
+            "team_2": "Maldives",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 11-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249747,
+            "title": "China vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249747_53092_CHN_SIN_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 11-10-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4250095_ENG",
-            "title": "Emirates D10, 2026 [English]",
-            "match_name": "Emirates Blues vs Fujairah [English]",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250095_53103_EMB_FUJ_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Fujairah",
+            "match_id": "4249659_ENG",
+            "title": "ICC CWC League 2 USA, 2026 [English]",
+            "match_name": "United Arab Emirates vs Namibia [English]",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "Namibia",
             "status": "LIVE",
-            "startTime": "06:45:00 PM 09-10-2026",
+            "startTime": "08:30:00 PM 09-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250095_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249659_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249227_ENG",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "Bangladesh Champions vs West Indies Champions [English]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
+            "team_1": "Bangladesh Champions",
+            "team_2": "West Indies Champions",
+            "status": "LIVE",
+            "startTime": "09:00:00 PM 09-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249227_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249227_HIN",
+            "title": "World Championship of Legends, 2026 [Hindi]",
+            "match_name": "Bangladesh Champions vs West Indies Champions [Hindi]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
+            "team_1": "Bangladesh Champions",
+            "team_2": "West Indies Champions",
+            "status": "LIVE",
+            "startTime": "09:00:00 PM 09-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "Hindi",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249227_HIN/hindi.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4250097_ENG",
+            "title": "Emirates D10, 2026 [English]",
+            "match_name": "Emirates Blues vs Emirates Red [English]",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250097_53103_EMB_EMR_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Emirates Red",
+            "status": "LIVE",
+            "startTime": "11:15:00 PM 09-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250097_ENG/english.m3u8"
                 }
             ]
         },
         {
             "event_category": "Football",
-            "match_id": "4249136_ENG",
+            "match_id": "4249138_ENG",
             "title": "Roshn Saudi League 2026-2027 [English]",
-            "match_name": "Al-Kholood Club vs Al-Qadsiah FC [English]",
+            "match_name": "Al-Nassr FC vs Diriyah [English]",
             "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249136_53025_ALK_ALQ_FC-Web.png",
-            "team_1": "Al-Kholood Club",
-            "team_2": "Al-Qadsiah FC",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249138_53025_ANF_DIR_FC-Web.png",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Diriyah",
             "status": "LIVE",
-            "startTime": "07:20:00 PM 09-10-2026",
+            "startTime": "11:30:00 PM 09-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249136_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249138_ENG/english.m3u8"
                 }
             ]
         },
         {
-            "event_category": "Motorsports",
-            "match_id": "4250133_ENG",
-            "title": "DTM 2026 [English]",
-            "match_name": "Free Practice 2 [English]",
-            "event_name": "DTM 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-            "team_1": "Free Practice 2",
-            "team_2": "Hockenheimring",
+            "event_category": "Football",
+            "match_id": "4249588_ENG",
+            "title": "EFL Championship 2026-27 [English]",
+            "match_name": "West Ham United vs Queens Park Rangers F.C. [English]",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249588_52993_WHU_QPR_fc-web.jpg",
+            "team_1": "West Ham United",
+            "team_2": "Queens Park Rangers F.C.",
             "status": "LIVE",
-            "startTime": "06:55:00 PM 09-10-2026",
+            "startTime": "12:30:00 AM 10-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250133_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249588_ENG/english.m3u8"
                 }
             ]
         }
@@ -572,106 +738,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249659,
-            "title": "Namibia vs United Arab Emirates (ICC CWC League 2 USA, 2026)",
-            "match_name": "Namibia vs United Arab Emirates",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png",
-            "team_1": "Namibia",
-            "team_2": "United Arab Emirates",
-            "status": "UPCOMING",
-            "startTime": "08:30:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249227,
-            "title": "Bangladesh Champions vs West Indies Champions (World Championship of Legends, 2026)",
-            "match_name": "Bangladesh Champions vs West Indies Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png",
-            "team_1": "Bangladesh Champions",
-            "team_2": "West Indies Champions",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250096,
-            "title": "Sharjah vs Ajman (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Ajman",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250096_53103_SHA_AJM_FC-WEB.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Ajman",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250097,
-            "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Emirates Blues vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250097_53103_EMB_EMR_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "11:15:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249137,
-            "title": "Al-Fateh SC vs Al-Ahli Saudi FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Fateh SC vs Al-Ahli Saudi FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249137_53025_AFF_AAS_FC-Web.png",
-            "team_1": "Al-Fateh SC",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "UPCOMING",
-            "startTime": "08:25:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249138,
-            "title": "Al-Nassr FC vs Diriyah (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Nassr FC vs Diriyah",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249138_53025_ANF_DIR_FC-Web.png",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Diriyah",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4247646,
-            "title": "Malaga vs RCD Espanyol (LALIGA 2026-27)",
-            "match_name": "Malaga vs RCD Espanyol",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247646_53004_MAG_ESL_FC-Web.png",
-            "team_1": "Malaga",
-            "team_2": "RCD Espanyol",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 10-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249588,
-            "title": "West Ham United vs Queens Park Rangers F.C. (EFL Championship 2026-27)",
-            "match_name": "West Ham United vs Queens Park Rangers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249588_52993_WHU_QPR_fc-web.jpg",
-            "team_1": "West Ham United",
-            "team_2": "Queens Park Rangers F.C.",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 10-10-2026",
+            "match_id": 4249781,
+            "title": "Australia vs South Africa (Australia tour of South Africa, 2026)",
+            "match_name": "Australia vs South Africa",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+            "team_1": "Australia",
+            "team_2": "South Africa",
+            "status": "PAUSED",
+            "startTime": "01:00:00 PM 09-10-2026",
             "user-agent": null
         },
         {
@@ -792,6 +867,32 @@
             "user-agent": null
         },
         {
+            "event_category": "Football",
+            "match_id": 4249139,
+            "title": "Al Hilal SFC vs Al-Ittihad (Roshn Saudi League 2026-2027)",
+            "match_name": "Al Hilal SFC vs Al-Ittihad",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Ittihad",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4247644,
+            "title": "Real Madrid vs Villarreal CF (LALIGA 2026-27)",
+            "match_name": "Real Madrid vs Villarreal CF",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247644_53004_RM_VIL_FC-Web.png",
+            "team_1": "Real Madrid",
+            "team_2": "Villarreal CF",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 11-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "MotoGP",
             "match_id": 139976,
             "title": "Day 2 vs Mandalika (PERTAMINA GRAND PRIX OF INDONESIA 2026)",
@@ -828,19 +929,6 @@
             "team_2": "New Korea Country Club",
             "status": "UPCOMING",
             "startTime": "09:30:00 AM 10-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249139,
-            "title": "Al Hilal SFC vs Al-Ittihad (Roshn Saudi League 2026-2027)",
-            "match_name": "Al Hilal SFC vs Al-Ittihad",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Ittihad",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 PM 10-10-2026",
             "user-agent": null
         },
         {
@@ -906,6 +994,136 @@
             "team_2": "Shanghai, China",
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": 4250126,
+            "title": "Semi-Final vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
+            "match_name": "Semi-Final",
+            "event_name": "BWF Super 500 - Arctic Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
+            "team_1": "Semi-Final",
+            "team_2": "Vantaa, Finland",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": 139499,
+            "title": "Sprint vs Marina Bay Street Circuit (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026)",
+            "match_name": "Sprint",
+            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+            "team_1": "Sprint",
+            "team_2": "Marina Bay Street Circuit",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4250137,
+            "title": "ADAC GT4 Germany - Race 1 vs Hockenheimring (DTM 2026)",
+            "match_name": "ADAC GT4 Germany - Race 1",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC_GT4_Web-match-card.png",
+            "team_1": "ADAC GT4 Germany - Race 1",
+            "team_2": "Hockenheimring",
+            "status": "UPCOMING",
+            "startTime": "03:05:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4250135,
+            "title": "Race 1 vs Hockenheimring (DTM 2026)",
+            "match_name": "Race 1",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
+            "team_1": "Race 1",
+            "team_2": "Hockenheimring",
+            "status": "UPCOMING",
+            "startTime": "04:25:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": 139500,
+            "title": "Qualifying vs Marina Bay Street Circuit (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026)",
+            "match_name": "Qualifying",
+            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Marina Bay Street Circuit",
+            "status": "UPCOMING",
+            "startTime": "06:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4250136,
+            "title": "ADAC GT Masters - Race 1 vs Hockenheimring (DTM 2026)",
+            "match_name": "ADAC GT Masters - Race 1",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
+            "team_1": "ADAC GT Masters - Race 1",
+            "team_2": "Hockenheimring",
+            "status": "UPCOMING",
+            "startTime": "06:30:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4250152,
+            "title": "ADAC GT4 Germany - Race 2 vs Germany (DTM 2026)",
+            "match_name": "ADAC GT4 Germany - Race 2",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC_GT4_Web-match-card.png",
+            "team_1": "ADAC GT4 Germany - Race 2",
+            "team_2": "Germany",
+            "status": "UPCOMING",
+            "startTime": "08:45:00 PM 10-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249745,
+            "title": "Hong Kong, China vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Hong Kong, China vs Saudi Arabia",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249745_53092_HK_SDA_fc-web.jpg",
+            "team_1": "Hong Kong, China",
+            "team_2": "Saudi Arabia",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 11-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249746,
+            "title": "Malaysia vs Maldives (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Malaysia vs Maldives",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249746_53092_MAS_MDV_fc-web.jpg",
+            "team_1": "Malaysia",
+            "team_2": "Maldives",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 11-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249747,
+            "title": "China vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249747_53092_CHN_SIN_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 AM 11-10-2026",
             "user-agent": null
         }
     ]
