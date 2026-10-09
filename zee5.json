@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "09:45:06 PM 04-10-2026",
+  "last_updated": "07:30:03 PM 09-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -17,6 +17,124 @@
   },
   "matches": [],
   "upcoming": {
+    "0-1-6z51092596": {
+      "id": "0-1-6z51092596",
+      "title": "FCA Vs FCB | Match Preview",
+      "description": "Coming up - FCA Vs FCB compete at the Bundesliga, LIVE at 7:00 PM, 10th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Saturday, 10 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51092596/list/00000000532b72e3d9dc02b422f835306258dff2f54.jpg"
+      }
+    },
+    "0-1-6z51093375": {
+      "id": "0-1-6z51093375",
+      "title": "Kapil Dev Invitational Tour Championship | Oct 7 to 10",
+      "description": "Experience world-class golf as PGTI stars battle pressure, precision and glory on the course.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Friday, 9 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51093375/list/ImageTitlea47f7c33104448b49da98db97cb8d8d4.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51093375/cover/pwa1920x770jpg7f33aedddf854144acd11f98099234a8.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51093375/appCover/1920x1080jpgcb60d8e11e8546d8ac4e1726603dd350.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51093375/verticalBanner/vertical845x1080jpg6f6d0b1ecb4f4e48966ab8e8effcc323.jpg"
+      }
+    },
+    "0-1-6z51092595": {
+      "id": "0-1-6z51092595",
+      "title": "BVB Vs SVW | Match Preview",
+      "description": "Coming up - BVB Vs SVW compete at the Bundesliga, LIVE at 12:00 AM, 10th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Saturday, 10 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51092595/list/0000000053359fa8120de924a3e9bc75ba0086f52cb.jpg"
+      }
+    },
+    "0-1-6z51092597": {
+      "id": "0-1-6z51092597",
+      "title": "COM Vs ROM | Match Preview",
+      "description": "Coming up - COM Vs ROM compete at the Serie A, LIVE at 4:00 PM, 11th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Sunday, 11 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51092597/list/00000000534a96abe724af74a9ebb260e933a7476f5.jpg"
+      }
+    },
+    "0-1-6z51092635": {
+      "id": "0-1-6z51092635",
+      "title": "SAS Vs MIL | Match Preview",
+      "description": "Coming up - SAS Vs MIL compete at the Serie A, LIVE at 9:30 PM, 11th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Wednesday, 7 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51092635/list/0000000050640cf3434a24188b84cb6354b6c9c2b.jpg"
+      }
+    },
     "0-1-6z51083982": {
       "id": "0-1-6z51083982",
       "title": "Super League Kerala | Season 3",
@@ -41,29 +159,6 @@
         "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/cover/skl1920x770covere81d94c348b14db2ab908811187e4ad5.jpg",
         "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/appCover/skl1920x1080appcover26b2c02ae60b42d59c97b7b4e6c78fb2.jpg",
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/verticalBanner/skl845x1080verticalbannerda819c7d3828436fa2e106627d10db2f.jpg"
-      }
-    },
-    "0-1-6z51087843": {
-      "id": "0-1-6z51087843",
-      "title": "The Final Chapter | Messi One Last Time",
-      "description": "Messi’s legacy nears its final chapter. Watch Argentina vs Benin live on Oct 7, 4:30 AM on Zee 5.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Wednesday, 7 October 2026",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51087843/list/000000000163c506ed09905404f8be3d26fd08bff60.jpg"
       }
     }
   },
