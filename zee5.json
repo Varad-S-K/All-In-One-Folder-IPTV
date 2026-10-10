@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "08:15:03 PM 09-10-2026",
+  "last_updated": "08:45:08 PM 10-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -15,80 +15,226 @@
     "HMAC_PROXY": "OFF",
     "ALL_IN_ONE": "OFF"
   },
-  "matches": [],
+  "matches": [
+    {
+      "id": "0-1-6z51084003",
+      "title": "TMFC Vs CFC",
+      "description": "Watch Thrissur Magic FC Vs Calicut FC LIVE & Exclusive only on ZEE5. Super League Kerala 2026",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Saturday, 10 October 2026",
+      "languages": [
+        "english",
+        "malayalam"
+      ],
+      "audioLanguages": [
+        "en",
+        "ml"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084003/list/1920x1080list4cf9262ca23d4a72845ca51a563d1f1356d31096b47c4ec28e5b6bab87ff024c.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084003/cover/1920x770cfb9eed45b1b4675a2671dd8b6faba09881c5d88494c4c05b73b62bd632661ae23deeb88fd6e4a7693ff9aa62dad012e.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084003/appCover/1920x1080appcover210c4012c234469698caca2263e56bc161f2744f3f434b639ebcdb8a0c285cc4.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084003/verticalBanner/845x1080a3b812a0c45b4848b8ce3d1eec51fd3cc1d6801155c94401bf466e15402db7ee.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-101026_ENG/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "expire_at": "Sunday 11th of October 2026 07:15:03 PM",
+          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-101026_ENG/master_360p.m3u8?hdntl=exp=1791726303~acl=%2f*~id=0-1-6z51084003_Z5X_1bc61f46f90c064ce8955a55868f2e547ccc21b99e99c4330515963b22d80b38~data=hdntl,2109037,SLK-M01-101026,ENG,5920a7ce3f14bcd75f413ba5c7fed213a4842a62e102bc522cfde0d17a3492f7~hmac=4f4f2090c811e2786d7ef0534c5e541c9612715faa99da19cfe0ab54e2b0fd67\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-101026_ENG/master_480p.m3u8?hdntl=exp=1791726303~acl=%2f*~id=0-1-6z51084003_Z5X_1bc61f46f90c064ce8955a55868f2e547ccc21b99e99c4330515963b22d80b38~data=hdntl,2109037,SLK-M01-101026,ENG,5920a7ce3f14bcd75f413ba5c7fed213a4842a62e102bc522cfde0d17a3492f7~hmac=4f4f2090c811e2786d7ef0534c5e541c9612715faa99da19cfe0ab54e2b0fd67\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-101026_ENG/master_576P.m3u8?hdntl=exp=1791726303~acl=%2f*~id=0-1-6z51084003_Z5X_1bc61f46f90c064ce8955a55868f2e547ccc21b99e99c4330515963b22d80b38~data=hdntl,2109037,SLK-M01-101026,ENG,5920a7ce3f14bcd75f413ba5c7fed213a4842a62e102bc522cfde0d17a3492f7~hmac=4f4f2090c811e2786d7ef0534c5e541c9612715faa99da19cfe0ab54e2b0fd67\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-101026_ENG/master_720p.m3u8?hdntl=exp=1791726303~acl=%2f*~id=0-1-6z51084003_Z5X_1bc61f46f90c064ce8955a55868f2e547ccc21b99e99c4330515963b22d80b38~data=hdntl,2109037,SLK-M01-101026,ENG,5920a7ce3f14bcd75f413ba5c7fed213a4842a62e102bc522cfde0d17a3492f7~hmac=4f4f2090c811e2786d7ef0534c5e541c9612715faa99da19cfe0ab54e2b0fd67\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-101026_ENG/master_1080p.m3u8?hdntl=exp=1791726303~acl=%2f*~id=0-1-6z51084003_Z5X_1bc61f46f90c064ce8955a55868f2e547ccc21b99e99c4330515963b22d80b38~data=hdntl,2109037,SLK-M01-101026,ENG,5920a7ce3f14bcd75f413ba5c7fed213a4842a62e102bc522cfde0d17a3492f7~hmac=4f4f2090c811e2786d7ef0534c5e541c9612715faa99da19cfe0ab54e2b0fd67\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-101026_ENG/master_aud.m3u8?hdntl=exp=1791726303~acl=%2f*~id=0-1-6z51084003_Z5X_1bc61f46f90c064ce8955a55868f2e547ccc21b99e99c4330515963b22d80b38~data=hdntl,2109037,SLK-M01-101026,ENG,5920a7ce3f14bcd75f413ba5c7fed213a4842a62e102bc522cfde0d17a3492f7~hmac=4f4f2090c811e2786d7ef0534c5e541c9612715faa99da19cfe0ab54e2b0fd67\""
+        },
+        "malayalam": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-101026_MAL/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "expire_at": "Sunday 11th of October 2026 07:15:04 PM",
+          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-101026_MAL/master_360p.m3u8?hdntl=exp=1791726304~acl=%2f*~id=0-1-6z51084003_Z5X_a9f6030ef7743b3e2dbb944ededee1d96dc9c8e5c5658fa638e2c391153917c6~data=hdntl,2109038,SLK-M01-101026,MAL,233d86f5ef802d95bd54502e072976b1f650b02b6f96fbad8b921deeb3def717~hmac=b6220429abdc6e003bd2249711d2321c9040ed5582999bb4bb754515a66043b0\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-101026_MAL/master_480p.m3u8?hdntl=exp=1791726304~acl=%2f*~id=0-1-6z51084003_Z5X_a9f6030ef7743b3e2dbb944ededee1d96dc9c8e5c5658fa638e2c391153917c6~data=hdntl,2109038,SLK-M01-101026,MAL,233d86f5ef802d95bd54502e072976b1f650b02b6f96fbad8b921deeb3def717~hmac=b6220429abdc6e003bd2249711d2321c9040ed5582999bb4bb754515a66043b0\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-101026_MAL/master_576P.m3u8?hdntl=exp=1791726304~acl=%2f*~id=0-1-6z51084003_Z5X_a9f6030ef7743b3e2dbb944ededee1d96dc9c8e5c5658fa638e2c391153917c6~data=hdntl,2109038,SLK-M01-101026,MAL,233d86f5ef802d95bd54502e072976b1f650b02b6f96fbad8b921deeb3def717~hmac=b6220429abdc6e003bd2249711d2321c9040ed5582999bb4bb754515a66043b0\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-101026_MAL/master_720p.m3u8?hdntl=exp=1791726304~acl=%2f*~id=0-1-6z51084003_Z5X_a9f6030ef7743b3e2dbb944ededee1d96dc9c8e5c5658fa638e2c391153917c6~data=hdntl,2109038,SLK-M01-101026,MAL,233d86f5ef802d95bd54502e072976b1f650b02b6f96fbad8b921deeb3def717~hmac=b6220429abdc6e003bd2249711d2321c9040ed5582999bb4bb754515a66043b0\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-101026_MAL/master_1080p.m3u8?hdntl=exp=1791726304~acl=%2f*~id=0-1-6z51084003_Z5X_a9f6030ef7743b3e2dbb944ededee1d96dc9c8e5c5658fa638e2c391153917c6~data=hdntl,2109038,SLK-M01-101026,MAL,233d86f5ef802d95bd54502e072976b1f650b02b6f96fbad8b921deeb3def717~hmac=b6220429abdc6e003bd2249711d2321c9040ed5582999bb4bb754515a66043b0\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"mal\",NAME=\"Malayalam\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-101026_MAL/master_aud.m3u8?hdntl=exp=1791726304~acl=%2f*~id=0-1-6z51084003_Z5X_a9f6030ef7743b3e2dbb944ededee1d96dc9c8e5c5658fa638e2c391153917c6~data=hdntl,2109038,SLK-M01-101026,MAL,233d86f5ef802d95bd54502e072976b1f650b02b6f96fbad8b921deeb3def717~hmac=b6220429abdc6e003bd2249711d2321c9040ed5582999bb4bb754515a66043b0\""
+        }
+      }
+    },
+    {
+      "id": "0-1-6z51091983",
+      "title": "TSG Hoffenheim Vs Hamburger SV",
+      "description": "Watch TSG Hoffenheim Vs Hamburger SV LIVE & Exclusive only on ZEE5. Bundesliga 2026-2027",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Saturday, 10 October 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091983/list/1920x1080listacd7f93927444c0dae554325815f20dd00f614d0799e4faf93d0c35aac0d0947.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091983/cover/1920x77035a3001482a64a72aa8639dfc78c81ba825329efc932412eb030bbca637a2979f334da9170e143958ca7fe2c5dbf8455.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091983/appCover/1920x1080appcoverf2e5682c11f0470d8eefe37fca3c5be585d4fb00534b476691c66b99737fcbee.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091983/verticalBanner/845x10807b67f47de6504e41a016fa371dc490cce988040b78ae4cefb049fa0d2965aec6.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
+      }
+    },
+    {
+      "id": "0-1-6z51091935",
+      "title": "FC Augsburg Vs FC Bayern Munich",
+      "description": "Watch FC Augsburg Vs FC Bayern Munich LIVE & Exclusive only on ZEE5. Bundesliga 2026-2027",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Saturday, 10 October 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091935/list/1920x1080list53a38095d2384cbfbb0d7a4bdaf22e2445d8f03ca26b4361b28fc350e450d852.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091935/cover/1920x770d9c7859fbd6b4beaa74c609c1255cf8d72e9416f053c44eb984e9e30568b447efccaaa663a3e4c29adefd2779dc5dfb4.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091935/appCover/1920x1080appcover3ea0fccf27164a03b601d218decf11c89326da315b504e5cbabced4f97b90aa2.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091935/verticalBanner/845x1080fc010ec6fb2247e88580c42df66bde646044073576a34d219986cf20aadaa82f.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
+      }
+    },
+    {
+      "id": "0-1-6z51091981",
+      "title": "1. FSV Mainz 05 Vs Bayer 04 Leverkusen",
+      "description": "Watch 1. FSV Mainz 05 Vs Bayer 04 Leverkusen LIVE & Exclusive only on ZEE5. Bundesliga 2026-2027",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Saturday, 10 October 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091981/list/1920x1080list5cf386475e11440aab70f123e11de7a9148578b2827847b3815a04d698e1154e.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091981/cover/1920x7701187c8f66b4342f9aed8c2bf5c4315e6c7337ca25c3b4108a444c48b51ae6686efaf2753fb264bc1bd0557081428505e.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091981/appCover/1920x1080appcover3ac13e7134694278a96e3a75e5ca1d7d79b8f6056220434eabd52dfde3056e0f.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091981/verticalBanner/845x1080faaf522bb80545378a49da02cbd2983f7428906e69174043a50031464d8c4030.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
+      }
+    },
+    {
+      "id": "0-1-6z51091963",
+      "title": "1. FC Union Berlin Vs SV Elversberg",
+      "description": "Watch 1. FC Union Berlin Vs SV Elversberg LIVE & Exclusive only on ZEE5. Bundesliga 2026-2027",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Saturday, 10 October 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091963/list/1920x1080listbc7590aea4ac41598adf29404e40cd2be6334de6cd514e89896d2c0ddab70bcb.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091963/cover/1920x7704a5b3ea13f0744f2ab6a73dbb74bcd39a1fe33c2d070481ebec1aaa1e9fc4ce5819eb656066a4d33988f6d5589fb56ec.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091963/appCover/1920x1080appcover17e2fc28bb06443fac7c0b3fc7f1dfe25a82412891ed4bfa90b4556bb9406688.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091963/verticalBanner/845x108094e133a26196428a9abbc4ae0c933ad4a8155143eb1f401191ebcec33258e2a2.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
+      }
+    },
+    {
+      "id": "0-1-6z51091937",
+      "title": "SC Paderborn 07 Vs VfB Stuttgart",
+      "description": "Watch SC Paderborn 07 Vs VfB Stuttgart LIVE & Exclusive only on ZEE5. Bundesliga 2026-2027",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Saturday, 10 October 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091937/list/1920x1080list069534ec1add4d8a8c81d010c670be9c8596128dc89d45338c9731ecb0e65644.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091937/cover/1920x77056cf49029621496486d1aa9c259fd3ef2073e9b258844b338bf7f05258563eedb801e79236e241588407af0f705bc219.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091937/appCover/1920x1080appcover55660923e54744d284845c6a9c2ecc7f497b5d985f5a499fbd86d5f660a0a9d1.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091937/verticalBanner/845x1080e08188aff7f74f62ba9554aaffa486f28a45e9d4c85543f5a91d4cc7a75131d8.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
+      }
+    }
+  ],
   "upcoming": {
-    "0-1-6z51092596": {
-      "id": "0-1-6z51092596",
-      "title": "FCA Vs FCB | Match Preview",
-      "description": "Coming up - FCA Vs FCB compete at the Bundesliga, LIVE at 7:00 PM, 10th October.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Saturday, 10 October 2026",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51092596/list/00000000532b72e3d9dc02b422f835306258dff2f54.jpg"
-      }
-    },
-    "0-1-6z51093375": {
-      "id": "0-1-6z51093375",
-      "title": "Kapil Dev Invitational Tour Championship | Oct 7 to 10",
-      "description": "Experience world-class golf as PGTI stars battle pressure, precision and glory on the course.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Friday, 9 October 2026",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51093375/list/ImageTitlea47f7c33104448b49da98db97cb8d8d4.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51093375/cover/pwa1920x770jpg7f33aedddf854144acd11f98099234a8.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51093375/appCover/1920x1080jpgcb60d8e11e8546d8ac4e1726603dd350.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51093375/verticalBanner/vertical845x1080jpg6f6d0b1ecb4f4e48966ab8e8effcc323.jpg"
-      }
-    },
-    "0-1-6z51092595": {
-      "id": "0-1-6z51092595",
-      "title": "BVB Vs SVW | Match Preview",
-      "description": "Coming up - BVB Vs SVW compete at the Bundesliga, LIVE at 12:00 AM, 10th October.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Saturday, 10 October 2026",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51092595/list/0000000053359fa8120de924a3e9bc75ba0086f52cb.jpg"
-      }
-    },
     "0-1-6z51092597": {
       "id": "0-1-6z51092597",
       "title": "COM Vs ROM | Match Preview",
@@ -161,6 +307,5 @@
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/verticalBanner/skl845x1080verticalbannerda819c7d3828436fa2e106627d10db2f.jpg"
       }
     }
-  },
-  "status": "Offline / No Matches"
+  }
 }
