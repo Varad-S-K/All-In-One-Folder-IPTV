@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "10/10/2026, 4:51:59 am",
+  "updatedAt": "10/10/2026, 7:54:09 am",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Victoria vs South Australia [English]",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249662",
-      "status": "LIVE",
-      "startTime": "09:50:00 AM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791674400~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_31ad243a-d472-49~Signature=AXZsC1CivBU9-MjkWzglVcKj9By8-gmP790lL2rftPkIzXn8s0vAcA6F5sYJH5qQelirB00GDGyPiHNwhH25qoWr55cI",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/240p.m3u8?hdntl=Expires=1791674400~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_31ad243a-d472-49~Signature=AXZsC1CivBU9-MjkWzglVcKj9By8-gmP790lL2rftPkIzXn8s0vAcA6F5sYJH5qQelirB00GDGyPiHNwhH25qoWr55cI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/360p.m3u8?hdntl=Expires=1791674400~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_31ad243a-d472-49~Signature=AXZsC1CivBU9-MjkWzglVcKj9By8-gmP790lL2rftPkIzXn8s0vAcA6F5sYJH5qQelirB00GDGyPiHNwhH25qoWr55cI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/480p.m3u8?hdntl=Expires=1791674400~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_31ad243a-d472-49~Signature=AXZsC1CivBU9-MjkWzglVcKj9By8-gmP790lL2rftPkIzXn8s0vAcA6F5sYJH5qQelirB00GDGyPiHNwhH25qoWr55cI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/540p.m3u8?hdntl=Expires=1791674400~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_31ad243a-d472-49~Signature=AXZsC1CivBU9-MjkWzglVcKj9By8-gmP790lL2rftPkIzXn8s0vAcA6F5sYJH5qQelirB00GDGyPiHNwhH25qoWr55cI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/720p.m3u8?hdntl=Expires=1791674400~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_31ad243a-d472-49~Signature=AXZsC1CivBU9-MjkWzglVcKj9By8-gmP790lL2rftPkIzXn8s0vAcA6F5sYJH5qQelirB00GDGyPiHNwhH25qoWr55cI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791674400~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_31ad243a-d472-49~Signature=AXZsC1CivBU9-MjkWzglVcKj9By8-gmP790lL2rftPkIzXn8s0vAcA6F5sYJH5qQelirB00GDGyPiHNwhH25qoWr55cI"
-          },
-          "cookie": "hdntl=Expires=1791674400~_GO=Generated~acl=/mumbai/4249662_english_hls_3995c057df22782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_31ad243a-d472-49~Signature=AXZsC1CivBU9-MjkWzglVcKj9By8-gmP790lL2rftPkIzXn8s0vAcA6F5sYJH5qQelirB00GDGyPiHNwhH25qoWr55cI",
-          "expires": "1791674400",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Tasmania vs New South Wales [English]",
@@ -73,22 +40,69 @@
     },
     {
       "category": "Cricket",
-      "title": "Queensland vs Western Australia",
+      "title": "Queensland vs Western Australia [English]",
       "tournament": "Sheffield Shield, 2026/27",
       "match_id": "4249664",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "08:00:00 AM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791684695~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_17b03d07-b2cc-48~Signature=AXZsC1C1TwFk6XdnHlH0ReBiSgItI3JfsU9IAXi9mJMt0JpyHk-AnVqzo1TFsyfz8bY_mcgY2kSRJyiyH8vFF0qKgKcD",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/240p.m3u8?hdntl=Expires=1791684695~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_17b03d07-b2cc-48~Signature=AXZsC1C1TwFk6XdnHlH0ReBiSgItI3JfsU9IAXi9mJMt0JpyHk-AnVqzo1TFsyfz8bY_mcgY2kSRJyiyH8vFF0qKgKcD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/360p.m3u8?hdntl=Expires=1791684695~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_17b03d07-b2cc-48~Signature=AXZsC1C1TwFk6XdnHlH0ReBiSgItI3JfsU9IAXi9mJMt0JpyHk-AnVqzo1TFsyfz8bY_mcgY2kSRJyiyH8vFF0qKgKcD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/480p.m3u8?hdntl=Expires=1791684695~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_17b03d07-b2cc-48~Signature=AXZsC1C1TwFk6XdnHlH0ReBiSgItI3JfsU9IAXi9mJMt0JpyHk-AnVqzo1TFsyfz8bY_mcgY2kSRJyiyH8vFF0qKgKcD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/540p.m3u8?hdntl=Expires=1791684695~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_17b03d07-b2cc-48~Signature=AXZsC1C1TwFk6XdnHlH0ReBiSgItI3JfsU9IAXi9mJMt0JpyHk-AnVqzo1TFsyfz8bY_mcgY2kSRJyiyH8vFF0qKgKcD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/720p.m3u8?hdntl=Expires=1791684695~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_17b03d07-b2cc-48~Signature=AXZsC1C1TwFk6XdnHlH0ReBiSgItI3JfsU9IAXi9mJMt0JpyHk-AnVqzo1TFsyfz8bY_mcgY2kSRJyiyH8vFF0qKgKcD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791684695~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_17b03d07-b2cc-48~Signature=AXZsC1C1TwFk6XdnHlH0ReBiSgItI3JfsU9IAXi9mJMt0JpyHk-AnVqzo1TFsyfz8bY_mcgY2kSRJyiyH8vFF0qKgKcD"
+          },
+          "cookie": "hdntl=Expires=1791684695~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_17b03d07-b2cc-48~Signature=AXZsC1C1TwFk6XdnHlH0ReBiSgItI3JfsU9IAXi9mJMt0JpyHk-AnVqzo1TFsyfz8bY_mcgY2kSRJyiyH8vFF0qKgKcD",
+          "expires": "1791684695",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "MotoGP",
+      "title": "Indonesia GP [English]",
+      "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
+      "match_id": "139976",
+      "status": "LIVE",
+      "startTime": "06:10:00 AM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/240p.m3u8?hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/360p.m3u8?hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/480p.m3u8?hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/540p.m3u8?hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/720p.m3u8?hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF"
+          },
+          "cookie": "hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF",
+          "expires": "1791678036",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -167,6 +181,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Emirates Blues vs Abu Dhabi",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250099",
+      "status": "UPCOMING",
+      "startTime": "07:15:00 PM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "West Bromwich Albion F.C. vs Birmingham City F.C.",
       "tournament": "EFL Championship 2026-27",
@@ -193,25 +226,6 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 10-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247645_53004_RVL_ATH_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Emirates Blues vs Abu Dhabi",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250099",
-      "status": "UPCOMING",
-      "startTime": "07:15:00 PM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -357,6 +371,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Golf",
+      "title": "Day 3 - World Feed",
+      "tournament": "Baycurrent Classic 2026",
+      "match_id": "4249776",
+      "status": "UPCOMING",
+      "startTime": "08:30:00 AM 10-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Hong Kong, China vs Saudi Arabia",
       "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
@@ -414,32 +447,13 @@
       "auto_streams": {}
     },
     {
-      "category": "MotoGP",
-      "title": "Indonesia GP",
-      "tournament": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
-      "match_id": "139976",
+      "category": "Cricket",
+      "title": "Canada vs Nepal",
+      "tournament": "ICC CWC League 2 Oman, 2026",
+      "match_id": "4250114",
       "status": "UPCOMING",
-      "startTime": "06:10:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3 - World Feed",
-      "tournament": "Baycurrent Classic 2026",
-      "match_id": "4249776",
-      "status": "UPCOMING",
-      "startTime": "08:30:00 AM 10-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png",
+      "startTime": "11:00:00 AM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -699,25 +713,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Canada vs Nepal",
-      "tournament": "ICC CWC League 2 Oman, 2026",
-      "match_id": "4250114",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 11-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Formula 1",
       "title": "Qualifying",
       "tournament": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
@@ -779,6 +774,25 @@
       "title": "Kuwait vs Myanmar",
       "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
       "match_id": "4249730",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 11-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bhutan vs Qatar",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+      "match_id": "4249731",
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 11-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
