@@ -2,26 +2,32 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "04:14:46 AM 11-10-2026",
-    "generated_at": "2026-10-10 22:50:12",
+    "source_last_updated": "05:55:55 AM 11-10-2026",
+    "generated_at": "2026-10-11 00:35:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 0,
-    "upcoming_matches_count": 40,
+    "live_matches_count": 1,
+    "upcoming_matches_count": 39,
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249663,
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs New South Wales",
+            "match_id": "4249663_ENG",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs New South Wales [English]",
             "event_name": "Sheffield Shield, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
             "team_1": "Tasmania",
             "team_2": "New South Wales",
-            "status": "PAUSED",
+            "status": "LIVE",
             "startTime": "05:00:00 AM 09-10-2026",
-            "user-agent": null
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249663_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
@@ -310,19 +316,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249267,
-            "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Cádiz vs Sporting de Gijón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
-            "team_1": "Cádiz",
-            "team_2": "Sporting de Gijón",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 12-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249280,
             "title": "Victoria vs South Australia (One Day Cup, 2026/27)",
@@ -333,6 +326,19 @@
             "team_2": "South Australia",
             "status": "UPCOMING",
             "startTime": "08:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249267,
+            "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Cádiz vs Sporting de Gijón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
+            "team_1": "Cádiz",
+            "team_2": "Sporting de Gijón",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 12-10-2026",
             "user-agent": null
         },
         {
@@ -531,21 +537,28 @@
             "user-agent": null
         }
     ],
-    "live_matches": [],
-    "upcoming_matches": [
+    "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249663,
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs New South Wales",
+            "match_id": "4249663_ENG",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs New South Wales [English]",
             "event_name": "Sheffield Shield, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
             "team_1": "Tasmania",
             "team_2": "New South Wales",
-            "status": "PAUSED",
+            "status": "LIVE",
             "startTime": "05:00:00 AM 09-10-2026",
-            "user-agent": null
-        },
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249663_ENG/english.m3u8"
+                }
+            ]
+        }
+    ],
+    "upcoming_matches": [
         {
             "event_category": "Cricket",
             "match_id": 4249664,
@@ -833,19 +846,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249267,
-            "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Cádiz vs Sporting de Gijón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
-            "team_1": "Cádiz",
-            "team_2": "Sporting de Gijón",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 12-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249280,
             "title": "Victoria vs South Australia (One Day Cup, 2026/27)",
@@ -856,6 +856,19 @@
             "team_2": "South Australia",
             "status": "UPCOMING",
             "startTime": "08:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249267,
+            "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Cádiz vs Sporting de Gijón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
+            "team_1": "Cádiz",
+            "team_2": "Sporting de Gijón",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 12-10-2026",
             "user-agent": null
         },
         {
