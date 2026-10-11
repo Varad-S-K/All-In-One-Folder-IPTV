@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "12:59:55 PM 11-10-2026",
-    "generated_at": "2026-10-11 07:45:06",
+    "source_last_updated": "06:54:16 PM 11-10-2026",
+    "generated_at": "2026-10-11 13:30:39",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 40,
-    "live_matches_count": 14,
-    "upcoming_matches_count": 26,
+    "total_matches": 41,
+    "live_matches_count": 12,
+    "upcoming_matches_count": 29,
     "matches": [
         {
             "event_category": "Cricket",
@@ -26,44 +26,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249693_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": "4250150_ENG",
-            "title": "Bangladesh Women tour of Australia, 2026 [English]",
-            "match_name": "Bangladesh Women vs Australia Women [English]",
-            "event_name": "Bangladesh Women tour of Australia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Australia Women",
-            "status": "LIVE",
-            "startTime": "09:20:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250150_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": "4250114_ENG",
-            "title": "ICC CWC League 2 Oman, 2026 [English]",
-            "match_name": "Nepal vs Canada [English]",
-            "event_name": "ICC CWC League 2 Oman, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png",
-            "team_1": "Nepal",
-            "team_2": "Canada",
-            "status": "LIVE",
-            "startTime": "11:00:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250114_ENG/english.m3u8"
                 }
             ]
         },
@@ -88,77 +50,58 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": "4249730_ENG",
-            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
-            "match_name": "Kuwait vs Myanmar [English]",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Kuwait",
-            "team_2": "Myanmar",
+            "match_id": "4250114_ENG",
+            "title": "ICC CWC League 2 Oman, 2026 [English]",
+            "match_name": "Nepal vs Canada [English]",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png",
+            "team_1": "Nepal",
+            "team_2": "Canada",
             "status": "LIVE",
-            "startTime": "11:30:00 AM 11-10-2026",
+            "startTime": "11:00:00 AM 11-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249730_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250114_ENG/english.m3u8"
                 }
             ]
         },
         {
             "event_category": "Cricket",
-            "match_id": "4249731_ENG",
-            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
-            "match_name": "Bhutan vs Qatar [English]",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bhutan",
-            "team_2": "Qatar",
+            "match_id": "4249225_ENG",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "Australia Champions vs West Indies Champions [English]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
+            "team_1": "Australia Champions",
+            "team_2": "West Indies Champions",
             "status": "LIVE",
-            "startTime": "11:30:00 AM 11-10-2026",
+            "startTime": "05:00:00 PM 11-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249731_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249225_ENG/english.m3u8"
                 }
             ]
         },
         {
             "event_category": "Cricket",
-            "match_id": "4249732_ENG",
-            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
-            "match_name": "Mongolia vs Bahrain [English]",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Mongolia",
-            "team_2": "Bahrain",
+            "match_id": "4249225_HIN",
+            "title": "World Championship of Legends, 2026 [Hindi]",
+            "match_name": "Australia Champions vs West Indies Champions [Hindi]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
+            "team_1": "Australia Champions",
+            "team_2": "West Indies Champions",
             "status": "LIVE",
-            "startTime": "11:30:00 AM 11-10-2026",
+            "startTime": "05:00:00 PM 11-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249732_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "MotoGP",
-            "match_id": "139977_ENG",
-            "title": "PERTAMINA GRAND PRIX OF INDONESIA 2026 [English]",
-            "match_name": "Indonesia GP [English]",
-            "event_name": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
-            "team_1": "Race Day",
-            "team_2": "Mandalika",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139977_ENG/english.m3u8"
+                    "language": "Hindi",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249225_HIN/hindi.m3u8"
                 }
             ]
         },
@@ -183,63 +126,6 @@
         },
         {
             "event_category": "Tennis",
-            "match_id": "4248826_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Show Court 3 [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Show Court 3",
-            "team_2": "Shanghai, China",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248826_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248827_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Grandstand 2 [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Grandstand 2",
-            "team_2": "Shanghai, China",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248827_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Golf",
-            "match_id": "4250106_ENG",
-            "title": "Aramco Korea Championship 2026 [English]",
-            "match_name": "Day 4 [English]",
-            "event_name": "Aramco Korea Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
-            "team_1": "Day 4",
-            "team_2": "New Korea Country Club",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250106_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
             "match_id": "4248828_ENG",
             "title": "ATP Masters - Rolex Shanghai Masters [English]",
             "match_name": "Stadium Court [English]",
@@ -258,36 +144,99 @@
             ]
         },
         {
-            "event_category": "Motorsports",
-            "match_id": "4250140_ENG",
-            "title": "DTM 2026 [English]",
-            "match_name": "Qualifying 2 [English]",
-            "event_name": "DTM 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-            "team_1": "Qualifying 2",
-            "team_2": "Hockenheimring",
+            "event_category": "Badminton",
+            "match_id": "4250127_ENG",
+            "title": "BWF Super 500 - Arctic Open 2026 [English]",
+            "match_name": "Finals [English]",
+            "event_name": "BWF Super 500 - Arctic Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
+            "team_1": "Finals",
+            "team_2": "Vantaa, Finland",
             "status": "LIVE",
-            "startTime": "12:55:00 PM 11-10-2026",
+            "startTime": "01:30:00 PM 11-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250140_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250127_ENG/english.m3u8"
                 }
             ]
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249225,
-            "title": "Australia Champions vs West Indies Champions (World Championship of Legends, 2026)",
-            "match_name": "Australia Champions vs West Indies Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
-            "team_1": "Australia Champions",
-            "team_2": "West Indies Champions",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 11-10-2026",
-            "user-agent": null
+            "event_category": "Formula 1",
+            "match_id": "139501_HIN",
+            "title": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 [Hindi]",
+            "match_name": "Race [Hindi]",
+            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+            "team_1": "Race",
+            "team_2": "Marina Bay Street Circuit",
+            "status": "LIVE",
+            "startTime": "05:30:00 PM 11-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "Hindi",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139501_HIN/hindi.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": "139501_TAM",
+            "title": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 [Tamil]",
+            "match_name": "Race [Tamil]",
+            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+            "team_1": "Race",
+            "team_2": "Marina Bay Street Circuit",
+            "status": "LIVE",
+            "startTime": "05:30:00 PM 11-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "Tamil",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139501_TAM/tamil.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": "4250200_ENG",
+            "title": "F1 Kids 2026 [English]",
+            "match_name": "F1 Kids 2026 [English]",
+            "event_name": "F1 Kids 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+            "team_1": "F1 Kids 2026",
+            "team_2": "Singapore",
+            "status": "LIVE",
+            "startTime": "05:30:00 PM 11-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250200_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": "4250138_ENG",
+            "title": "DTM 2026 [English]",
+            "match_name": "ADAC GT Masters - Race 2 [English]",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
+            "team_1": "ADAC GT Masters - Race 2",
+            "team_2": "Hockenheimring",
+            "status": "LIVE",
+            "startTime": "05:55:00 PM 11-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250138_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
@@ -330,32 +279,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249591,
-            "title": "Southampton F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
-            "match_name": "Southampton F.C. vs Portsmouth F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249591_52993_SOU_PRM_fc-web.jpg",
-            "team_1": "Southampton F.C.",
-            "team_2": "Portsmouth F.C.",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4247641,
-            "title": "Elche CF vs RC Celta (LALIGA 2026-27)",
-            "match_name": "Elche CF vs RC Celta",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247641_53004_ELC_CEV_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "RC Celta",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4247642,
             "title": "Real Sociedad vs Deportivo de La Coruna (LALIGA 2026-27)",
             "match_name": "Real Sociedad vs Deportivo de La Coruna",
@@ -363,6 +286,19 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4247642_53004_RS_COR_FC-Web.png",
             "team_1": "Real Sociedad",
             "team_2": "Deportivo de La Coruna",
+            "status": "UPCOMING",
+            "startTime": "07:45:00 PM 11-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249265,
+            "title": "Almería vs Leganes (LALIGA Hypermotion 2026-27)",
+            "match_name": "Almería vs Leganes",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
+            "team_1": "Almería",
+            "team_2": "Leganes",
             "status": "UPCOMING",
             "startTime": "07:45:00 PM 11-10-2026",
             "user-agent": null
@@ -472,32 +408,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249265,
-            "title": "Almería vs Leganes (LALIGA Hypermotion 2026-27)",
-            "match_name": "Almería vs Leganes",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
-            "team_1": "Almería",
-            "team_2": "Leganes",
-            "status": "UPCOMING",
-            "startTime": "07:45:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249266,
-            "title": "RCD Mallorca vs Las Palmas (LALIGA Hypermotion 2026-27)",
-            "match_name": "RCD Mallorca vs Las Palmas",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249266_53017_MRC_LAP_FC-Web.png",
-            "team_1": "RCD Mallorca",
-            "team_2": "Las Palmas",
-            "status": "UPCOMING",
-            "startTime": "10:00:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249786,
             "title": "Melbourne Renegades Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
@@ -521,32 +431,6 @@
             "team_2": "Melbourne Stars Women",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 12-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249267,
-            "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Cádiz vs Sporting de Gijón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
-            "team_1": "Cádiz",
-            "team_2": "Sporting de Gijón",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 12-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": 4250127,
-            "title": "Finals vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
-            "match_name": "Finals",
-            "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
-            "team_1": "Finals",
-            "team_2": "Vantaa, Finland",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 PM 11-10-2026",
             "user-agent": null
         },
         {
@@ -589,29 +473,146 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 4250139,
-            "title": "ADAC GT4 Germany - Race 3 vs Hockenheimring (DTM 2026)",
-            "match_name": "ADAC GT4 Germany - Race 3",
-            "event_name": "DTM 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC_GT4_Web-match-card.png",
-            "team_1": "ADAC GT4 Germany - Race 3",
-            "team_2": "Hockenheimring",
+            "event_category": "Football",
+            "match_id": 4249266,
+            "title": "RCD Mallorca vs Las Palmas (LALIGA Hypermotion 2026-27)",
+            "match_name": "RCD Mallorca vs Las Palmas",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249266_53017_MRC_LAP_FC-Web.png",
+            "team_1": "RCD Mallorca",
+            "team_2": "Las Palmas",
             "status": "UPCOMING",
-            "startTime": "02:20:00 PM 11-10-2026",
+            "startTime": "10:00:00 PM 11-10-2026",
             "user-agent": null
         },
         {
-            "event_category": "Formula 1",
-            "match_id": 139501,
-            "title": "Race vs Marina Bay Street Circuit (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026)",
-            "match_name": "Race",
-            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-            "team_1": "Race",
-            "team_2": "Marina Bay Street Circuit",
+            "event_category": "Football",
+            "match_id": 4249267,
+            "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Cádiz vs Sporting de Gijón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
+            "team_1": "Cádiz",
+            "team_2": "Sporting de Gijón",
             "status": "UPCOMING",
-            "startTime": "05:30:00 PM 11-10-2026",
+            "startTime": "12:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4250141,
+            "title": "Race 2 vs Hockenheimring (DTM 2026)",
+            "match_name": "Race 2",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
+            "team_1": "Race 2",
+            "team_2": "Hockenheimring",
+            "status": "UPCOMING",
+            "startTime": "07:25:00 PM 11-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248696,
+            "title": "Pakhtakor Tashkent vs Al Qadisiyah (AFC Champions League Elite 2026-27)",
+            "match_name": "Pakhtakor Tashkent vs Al Qadisiyah",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248696_53053_PT_ALQ_FC-WEB.jpg",
+            "team_1": "Pakhtakor Tashkent",
+            "team_2": "Al Qadisiyah",
+            "status": "UPCOMING",
+            "startTime": "07:15:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248697,
+            "title": "Tractor vs Al Shamal (AFC Champions League Elite 2026-27)",
+            "match_name": "Tractor vs Al Shamal",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248697_53053_TFC_ALS_fc-web.jpg",
+            "team_1": "Tractor",
+            "team_2": "Al Shamal",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248698,
+            "title": "Al Wasl F.C. vs Al-Ahli Saudi FC (AFC Champions League Elite 2026-27)",
+            "match_name": "Al Wasl F.C. vs Al-Ahli Saudi FC",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Wasl-F.C.-vs-Al-Ahli-Saudi-FC-old--card.jpg",
+            "team_1": "Al Wasl F.C.",
+            "team_2": "Al-Ahli Saudi FC",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248829,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248830,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248831,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248832,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248699,
+            "title": "Air Force SC vs Al Ain (AFC Champions League Elite 2026-27)",
+            "match_name": "Air Force SC vs Al Ain",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248699_53053_AFSC_AAI_fc-web.jpg",
+            "team_1": "Air Force SC",
+            "team_2": "Al Ain",
+            "status": "UPCOMING",
+            "startTime": "11:45:00 PM 12-10-2026",
             "user-agent": null
         }
     ],
@@ -637,20 +638,20 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": "4250150_ENG",
-            "title": "Bangladesh Women tour of Australia, 2026 [English]",
-            "match_name": "Bangladesh Women vs Australia Women [English]",
-            "event_name": "Bangladesh Women tour of Australia, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Australia Women",
+            "match_id": "4249781_ENG",
+            "title": "Australia tour of South Africa, 2026 [English]",
+            "match_name": "Australia vs South Africa [English]",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+            "team_1": "Australia",
+            "team_2": "South Africa",
             "status": "LIVE",
-            "startTime": "09:20:00 AM 11-10-2026",
+            "startTime": "01:00:00 PM 09-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250150_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249781_ENG/english.m3u8"
                 }
             ]
         },
@@ -675,96 +676,39 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": "4249781_ENG",
-            "title": "Australia tour of South Africa, 2026 [English]",
-            "match_name": "Australia vs South Africa [English]",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-            "team_1": "Australia",
-            "team_2": "South Africa",
+            "match_id": "4249225_ENG",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "Australia Champions vs West Indies Champions [English]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
+            "team_1": "Australia Champions",
+            "team_2": "West Indies Champions",
             "status": "LIVE",
-            "startTime": "01:00:00 PM 09-10-2026",
+            "startTime": "05:00:00 PM 11-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249781_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249225_ENG/english.m3u8"
                 }
             ]
         },
         {
             "event_category": "Cricket",
-            "match_id": "4249730_ENG",
-            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
-            "match_name": "Kuwait vs Myanmar [English]",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Kuwait",
-            "team_2": "Myanmar",
+            "match_id": "4249225_HIN",
+            "title": "World Championship of Legends, 2026 [Hindi]",
+            "match_name": "Australia Champions vs West Indies Champions [Hindi]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
+            "team_1": "Australia Champions",
+            "team_2": "West Indies Champions",
             "status": "LIVE",
-            "startTime": "11:30:00 AM 11-10-2026",
+            "startTime": "05:00:00 PM 11-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249730_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": "4249731_ENG",
-            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
-            "match_name": "Bhutan vs Qatar [English]",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Bhutan",
-            "team_2": "Qatar",
-            "status": "LIVE",
-            "startTime": "11:30:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249731_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": "4249732_ENG",
-            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
-            "match_name": "Mongolia vs Bahrain [English]",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Mongolia",
-            "team_2": "Bahrain",
-            "status": "LIVE",
-            "startTime": "11:30:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249732_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "MotoGP",
-            "match_id": "139977_ENG",
-            "title": "PERTAMINA GRAND PRIX OF INDONESIA 2026 [English]",
-            "match_name": "Indonesia GP [English]",
-            "event_name": "PERTAMINA GRAND PRIX OF INDONESIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png",
-            "team_1": "Race Day",
-            "team_2": "Mandalika",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139977_ENG/english.m3u8"
+                    "language": "Hindi",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249225_HIN/hindi.m3u8"
                 }
             ]
         },
@@ -789,63 +733,6 @@
         },
         {
             "event_category": "Tennis",
-            "match_id": "4248826_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Show Court 3 [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Show Court 3",
-            "team_2": "Shanghai, China",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248826_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248827_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Grandstand 2 [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Grandstand 2",
-            "team_2": "Shanghai, China",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248827_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Golf",
-            "match_id": "4250106_ENG",
-            "title": "Aramco Korea Championship 2026 [English]",
-            "match_name": "Day 4 [English]",
-            "event_name": "Aramco Korea Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg",
-            "team_1": "Day 4",
-            "team_2": "New Korea Country Club",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 11-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250106_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
             "match_id": "4248828_ENG",
             "title": "ATP Masters - Rolex Shanghai Masters [English]",
             "match_name": "Stadium Court [English]",
@@ -864,39 +751,102 @@
             ]
         },
         {
-            "event_category": "Motorsports",
-            "match_id": "4250140_ENG",
-            "title": "DTM 2026 [English]",
-            "match_name": "Qualifying 2 [English]",
-            "event_name": "DTM 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
-            "team_1": "Qualifying 2",
-            "team_2": "Hockenheimring",
+            "event_category": "Badminton",
+            "match_id": "4250127_ENG",
+            "title": "BWF Super 500 - Arctic Open 2026 [English]",
+            "match_name": "Finals [English]",
+            "event_name": "BWF Super 500 - Arctic Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
+            "team_1": "Finals",
+            "team_2": "Vantaa, Finland",
             "status": "LIVE",
-            "startTime": "12:55:00 PM 11-10-2026",
+            "startTime": "01:30:00 PM 11-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250140_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250127_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": "139501_HIN",
+            "title": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 [Hindi]",
+            "match_name": "Race [Hindi]",
+            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+            "team_1": "Race",
+            "team_2": "Marina Bay Street Circuit",
+            "status": "LIVE",
+            "startTime": "05:30:00 PM 11-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "Hindi",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139501_HIN/hindi.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": "139501_TAM",
+            "title": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 [Tamil]",
+            "match_name": "Race [Tamil]",
+            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
+            "team_1": "Race",
+            "team_2": "Marina Bay Street Circuit",
+            "status": "LIVE",
+            "startTime": "05:30:00 PM 11-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "Tamil",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139501_TAM/tamil.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": "4250200_ENG",
+            "title": "F1 Kids 2026 [English]",
+            "match_name": "F1 Kids 2026 [English]",
+            "event_name": "F1 Kids 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+            "team_1": "F1 Kids 2026",
+            "team_2": "Singapore",
+            "status": "LIVE",
+            "startTime": "05:30:00 PM 11-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250200_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": "4250138_ENG",
+            "title": "DTM 2026 [English]",
+            "match_name": "ADAC GT Masters - Race 2 [English]",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
+            "team_1": "ADAC GT Masters - Race 2",
+            "team_2": "Hockenheimring",
+            "status": "LIVE",
+            "startTime": "05:55:00 PM 11-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250138_ENG/english.m3u8"
                 }
             ]
         }
     ],
     "upcoming_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": 4249225,
-            "title": "Australia Champions vs West Indies Champions (World Championship of Legends, 2026)",
-            "match_name": "Australia Champions vs West Indies Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png",
-            "team_1": "Australia Champions",
-            "team_2": "West Indies Champions",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 11-10-2026",
-            "user-agent": null
-        },
         {
             "event_category": "Cricket",
             "match_id": 4249660,
@@ -938,32 +888,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249591,
-            "title": "Southampton F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
-            "match_name": "Southampton F.C. vs Portsmouth F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249591_52993_SOU_PRM_fc-web.jpg",
-            "team_1": "Southampton F.C.",
-            "team_2": "Portsmouth F.C.",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4247641,
-            "title": "Elche CF vs RC Celta (LALIGA 2026-27)",
-            "match_name": "Elche CF vs RC Celta",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247641_53004_ELC_CEV_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "RC Celta",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4247642,
             "title": "Real Sociedad vs Deportivo de La Coruna (LALIGA 2026-27)",
             "match_name": "Real Sociedad vs Deportivo de La Coruna",
@@ -971,6 +895,19 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4247642_53004_RS_COR_FC-Web.png",
             "team_1": "Real Sociedad",
             "team_2": "Deportivo de La Coruna",
+            "status": "UPCOMING",
+            "startTime": "07:45:00 PM 11-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249265,
+            "title": "Almería vs Leganes (LALIGA Hypermotion 2026-27)",
+            "match_name": "Almería vs Leganes",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
+            "team_1": "Almería",
+            "team_2": "Leganes",
             "status": "UPCOMING",
             "startTime": "07:45:00 PM 11-10-2026",
             "user-agent": null
@@ -1080,32 +1017,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249265,
-            "title": "Almería vs Leganes (LALIGA Hypermotion 2026-27)",
-            "match_name": "Almería vs Leganes",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249265_53017_ALM_LEG_FC-Web.png",
-            "team_1": "Almería",
-            "team_2": "Leganes",
-            "status": "UPCOMING",
-            "startTime": "07:45:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249266,
-            "title": "RCD Mallorca vs Las Palmas (LALIGA Hypermotion 2026-27)",
-            "match_name": "RCD Mallorca vs Las Palmas",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249266_53017_MRC_LAP_FC-Web.png",
-            "team_1": "RCD Mallorca",
-            "team_2": "Las Palmas",
-            "status": "UPCOMING",
-            "startTime": "10:00:00 PM 11-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249786,
             "title": "Melbourne Renegades Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
@@ -1129,32 +1040,6 @@
             "team_2": "Melbourne Stars Women",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 12-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249267,
-            "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Cádiz vs Sporting de Gijón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
-            "team_1": "Cádiz",
-            "team_2": "Sporting de Gijón",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 12-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": 4250127,
-            "title": "Finals vs Vantaa, Finland (BWF Super 500 - Arctic Open 2026)",
-            "match_name": "Finals",
-            "event_name": "BWF Super 500 - Arctic Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png",
-            "team_1": "Finals",
-            "team_2": "Vantaa, Finland",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 PM 11-10-2026",
             "user-agent": null
         },
         {
@@ -1197,29 +1082,146 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 4250139,
-            "title": "ADAC GT4 Germany - Race 3 vs Hockenheimring (DTM 2026)",
-            "match_name": "ADAC GT4 Germany - Race 3",
-            "event_name": "DTM 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC_GT4_Web-match-card.png",
-            "team_1": "ADAC GT4 Germany - Race 3",
-            "team_2": "Hockenheimring",
+            "event_category": "Football",
+            "match_id": 4249266,
+            "title": "RCD Mallorca vs Las Palmas (LALIGA Hypermotion 2026-27)",
+            "match_name": "RCD Mallorca vs Las Palmas",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249266_53017_MRC_LAP_FC-Web.png",
+            "team_1": "RCD Mallorca",
+            "team_2": "Las Palmas",
             "status": "UPCOMING",
-            "startTime": "02:20:00 PM 11-10-2026",
+            "startTime": "10:00:00 PM 11-10-2026",
             "user-agent": null
         },
         {
-            "event_category": "Formula 1",
-            "match_id": 139501,
-            "title": "Race vs Marina Bay Street Circuit (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026)",
-            "match_name": "Race",
-            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg",
-            "team_1": "Race",
-            "team_2": "Marina Bay Street Circuit",
+            "event_category": "Football",
+            "match_id": 4249267,
+            "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Cádiz vs Sporting de Gijón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249267_53017_CDZ_SG_FC-Web.png",
+            "team_1": "Cádiz",
+            "team_2": "Sporting de Gijón",
             "status": "UPCOMING",
-            "startTime": "05:30:00 PM 11-10-2026",
+            "startTime": "12:30:00 AM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4250141,
+            "title": "Race 2 vs Hockenheimring (DTM 2026)",
+            "match_name": "Race 2",
+            "event_name": "DTM 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg",
+            "team_1": "Race 2",
+            "team_2": "Hockenheimring",
+            "status": "UPCOMING",
+            "startTime": "07:25:00 PM 11-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248696,
+            "title": "Pakhtakor Tashkent vs Al Qadisiyah (AFC Champions League Elite 2026-27)",
+            "match_name": "Pakhtakor Tashkent vs Al Qadisiyah",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248696_53053_PT_ALQ_FC-WEB.jpg",
+            "team_1": "Pakhtakor Tashkent",
+            "team_2": "Al Qadisiyah",
+            "status": "UPCOMING",
+            "startTime": "07:15:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248697,
+            "title": "Tractor vs Al Shamal (AFC Champions League Elite 2026-27)",
+            "match_name": "Tractor vs Al Shamal",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248697_53053_TFC_ALS_fc-web.jpg",
+            "team_1": "Tractor",
+            "team_2": "Al Shamal",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248698,
+            "title": "Al Wasl F.C. vs Al-Ahli Saudi FC (AFC Champions League Elite 2026-27)",
+            "match_name": "Al Wasl F.C. vs Al-Ahli Saudi FC",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Wasl-F.C.-vs-Al-Ahli-Saudi-FC-old--card.jpg",
+            "team_1": "Al Wasl F.C.",
+            "team_2": "Al-Ahli Saudi FC",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248829,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248830,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248831,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248832,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 12-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248699,
+            "title": "Air Force SC vs Al Ain (AFC Champions League Elite 2026-27)",
+            "match_name": "Air Force SC vs Al Ain",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248699_53053_AFSC_AAI_fc-web.jpg",
+            "team_1": "Air Force SC",
+            "team_2": "Al Ain",
+            "status": "UPCOMING",
+            "startTime": "11:45:00 PM 12-10-2026",
             "user-agent": null
         }
     ]

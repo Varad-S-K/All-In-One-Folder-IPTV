@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "09:45:05 PM 10-10-2026",
+  "last_updated": "07:15:11 PM 11-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -15,12 +15,11 @@
     "HMAC_PROXY": "OFF",
     "ALL_IN_ONE": "OFF"
   },
-  "matches": [],
-  "upcoming": {
-    "0-1-6z51092597": {
-      "id": "0-1-6z51092597",
-      "title": "COM Vs ROM | Match Preview",
-      "description": "Coming up - COM Vs ROM compete at the Serie A, LIVE at 4:00 PM, 11th October.",
+  "matches": [
+    {
+      "id": "0-1-6z51084010",
+      "title": "TKFC Vs MFC",
+      "description": "Watch Thiruvananthapuram Kombans FC Vs Malappuram FC LIVE & Exclusive only on ZEE5. Super League Kerala 2026",
       "genres": [
         {
           "id": "Sports",
@@ -31,15 +30,141 @@
       "businessType": "free",
       "releaseDate": "Sunday, 11 October 2026",
       "languages": [
-        "en"
+        "english",
+        "malayalam"
+      ],
+      "audioLanguages": [
+        "en",
+        "ml"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084010/list/1920x1080listc6f4a7c0ac0243e68f1a1f3d76fd91dd2aab7f9b7492410aacba7a2b93a00a25.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084010/cover/1920x77058d427d050ee44139c15b56e11edd88f84b91cae74cf431ba772d3235464975b3e4436e7beca4b35b4f8b93e2a47c6cf.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084010/appCover/1920x1080appcoverdea3fad2cdcf4699a30cabe0dca1e3b27f39a8f408b74ac09a45718dc3d981bb.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084010/verticalBanner/845x10802b593d7149294aacafabae7c17564614fc23c4b6ee9c45b8b52b5dd47d6763f7.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-111026_ENG/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "expire_at": "Monday 12th of October 2026 07:15:07 PM",
+          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-111026_ENG/master_360p.m3u8?hdntl=exp=1791812707~acl=%2f*~id=0-1-6z51084010_Z5X_ef50f4f0850ec9c37224f45b83341a1dd21cb002c5ecbc58cd9a90ec25e93cc8~data=hdntl,2109037,SLK-M01-111026,ENG,746b758b341dbf843e241d79d1322baeeb3d07bdaf64baf0706b8fe3f523966f~hmac=b588a0dfa714b54f262d3854ea46db7acf7c5578dc61b05015391693e6578133\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-111026_ENG/master_480p.m3u8?hdntl=exp=1791812707~acl=%2f*~id=0-1-6z51084010_Z5X_ef50f4f0850ec9c37224f45b83341a1dd21cb002c5ecbc58cd9a90ec25e93cc8~data=hdntl,2109037,SLK-M01-111026,ENG,746b758b341dbf843e241d79d1322baeeb3d07bdaf64baf0706b8fe3f523966f~hmac=b588a0dfa714b54f262d3854ea46db7acf7c5578dc61b05015391693e6578133\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-111026_ENG/master_576P.m3u8?hdntl=exp=1791812707~acl=%2f*~id=0-1-6z51084010_Z5X_ef50f4f0850ec9c37224f45b83341a1dd21cb002c5ecbc58cd9a90ec25e93cc8~data=hdntl,2109037,SLK-M01-111026,ENG,746b758b341dbf843e241d79d1322baeeb3d07bdaf64baf0706b8fe3f523966f~hmac=b588a0dfa714b54f262d3854ea46db7acf7c5578dc61b05015391693e6578133\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-111026_ENG/master_720p.m3u8?hdntl=exp=1791812707~acl=%2f*~id=0-1-6z51084010_Z5X_ef50f4f0850ec9c37224f45b83341a1dd21cb002c5ecbc58cd9a90ec25e93cc8~data=hdntl,2109037,SLK-M01-111026,ENG,746b758b341dbf843e241d79d1322baeeb3d07bdaf64baf0706b8fe3f523966f~hmac=b588a0dfa714b54f262d3854ea46db7acf7c5578dc61b05015391693e6578133\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-111026_ENG/master_1080p.m3u8?hdntl=exp=1791812707~acl=%2f*~id=0-1-6z51084010_Z5X_ef50f4f0850ec9c37224f45b83341a1dd21cb002c5ecbc58cd9a90ec25e93cc8~data=hdntl,2109037,SLK-M01-111026,ENG,746b758b341dbf843e241d79d1322baeeb3d07bdaf64baf0706b8fe3f523966f~hmac=b588a0dfa714b54f262d3854ea46db7acf7c5578dc61b05015391693e6578133\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-111026_ENG/master_aud.m3u8?hdntl=exp=1791812707~acl=%2f*~id=0-1-6z51084010_Z5X_ef50f4f0850ec9c37224f45b83341a1dd21cb002c5ecbc58cd9a90ec25e93cc8~data=hdntl,2109037,SLK-M01-111026,ENG,746b758b341dbf843e241d79d1322baeeb3d07bdaf64baf0706b8fe3f523966f~hmac=b588a0dfa714b54f262d3854ea46db7acf7c5578dc61b05015391693e6578133\""
+        },
+        "malayalam": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-111026_MAL/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "expire_at": "Monday 12th of October 2026 07:15:08 PM",
+          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-111026_MAL/master_360p.m3u8?hdntl=exp=1791812708~acl=%2f*~id=0-1-6z51084010_Z5X_cc62f43bacb6ad4b0fa91dc42f7b2d5e966a9f943dfa0d694d46f72b684c4873~data=hdntl,2109038,SLK-M01-111026,MAL,6109d44ecad18d9dee8a0e977ecc5636adb7ab5d673a4e65621e5e47092721ce~hmac=e3db731b11d66e54cffa3d40e4a10844ad67103aa5b2e4a21c6204235c1989aa\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-111026_MAL/master_480p.m3u8?hdntl=exp=1791812708~acl=%2f*~id=0-1-6z51084010_Z5X_cc62f43bacb6ad4b0fa91dc42f7b2d5e966a9f943dfa0d694d46f72b684c4873~data=hdntl,2109038,SLK-M01-111026,MAL,6109d44ecad18d9dee8a0e977ecc5636adb7ab5d673a4e65621e5e47092721ce~hmac=e3db731b11d66e54cffa3d40e4a10844ad67103aa5b2e4a21c6204235c1989aa\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-111026_MAL/master_576P.m3u8?hdntl=exp=1791812708~acl=%2f*~id=0-1-6z51084010_Z5X_cc62f43bacb6ad4b0fa91dc42f7b2d5e966a9f943dfa0d694d46f72b684c4873~data=hdntl,2109038,SLK-M01-111026,MAL,6109d44ecad18d9dee8a0e977ecc5636adb7ab5d673a4e65621e5e47092721ce~hmac=e3db731b11d66e54cffa3d40e4a10844ad67103aa5b2e4a21c6204235c1989aa\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-111026_MAL/master_720p.m3u8?hdntl=exp=1791812708~acl=%2f*~id=0-1-6z51084010_Z5X_cc62f43bacb6ad4b0fa91dc42f7b2d5e966a9f943dfa0d694d46f72b684c4873~data=hdntl,2109038,SLK-M01-111026,MAL,6109d44ecad18d9dee8a0e977ecc5636adb7ab5d673a4e65621e5e47092721ce~hmac=e3db731b11d66e54cffa3d40e4a10844ad67103aa5b2e4a21c6204235c1989aa\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-111026_MAL/master_1080p.m3u8?hdntl=exp=1791812708~acl=%2f*~id=0-1-6z51084010_Z5X_cc62f43bacb6ad4b0fa91dc42f7b2d5e966a9f943dfa0d694d46f72b684c4873~data=hdntl,2109038,SLK-M01-111026,MAL,6109d44ecad18d9dee8a0e977ecc5636adb7ab5d673a4e65621e5e47092721ce~hmac=e3db731b11d66e54cffa3d40e4a10844ad67103aa5b2e4a21c6204235c1989aa\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"mal\",NAME=\"Malayalam\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-111026_MAL/master_aud.m3u8?hdntl=exp=1791812708~acl=%2f*~id=0-1-6z51084010_Z5X_cc62f43bacb6ad4b0fa91dc42f7b2d5e966a9f943dfa0d694d46f72b684c4873~data=hdntl,2109038,SLK-M01-111026,MAL,6109d44ecad18d9dee8a0e977ecc5636adb7ab5d673a4e65621e5e47092721ce~hmac=e3db731b11d66e54cffa3d40e4a10844ad67103aa5b2e4a21c6204235c1989aa\""
+        }
+      }
+    },
+    {
+      "id": "0-1-6z51091975",
+      "title": "KOE Vs BMG",
+      "description": "Watch 1. FC Köln Vs Borussia Mönchengladbach LIVE & Exclusive only on ZEE5. Bundesliga 2026-2027",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Sunday, 11 October 2026",
+      "languages": [
+        "english"
       ],
       "audioLanguages": [
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51092597/list/00000000534a96abe724af74a9ebb260e933a7476f5.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091975/list/1920x1080list5144f4de57384d02b771ca36e11b845056cdf2d37907483499054b165f39cc59.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091975/cover/1920x770ba570cff81ce45a7951c90cf14b622221d71ac2ad740407d994175dba9fc3c05802dd899a2234c809419753010246dd9.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091975/appCover/1920x1080appcover0e87a8fe854e432c99ec024fa150e60c2943342b91bd4acdb427918aea421341.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091975/verticalBanner/845x108040840ee9b51f4f17aa75088e1e55c5e82768d8abc5fb4256a62b8270c8b0cae0.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
       }
     },
+    {
+      "id": "0-1-6z51091855",
+      "title": "LAZ Vs MON",
+      "description": "Watch Lazio Vs Monza LIVE & Exclusive only on ZEE5. Serie A 2026-27",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Sunday, 11 October 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091855/list/1920x1080list1677d032e57e474f99c5c35f3dc548c726dedc40c4ef4974a475d57ccde9b3d6.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091855/cover/1920x770a36165aa18a44d3680259179b2bde2443e75d9435d454db09a155623d9ae097a3cff205e3df9421ebf3b2b625d0eb758.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091855/appCover/1920x1080appcover92e077539b0b4abe95ec1ed9ed24804f7038cc5147864867b7a972829eddc0d5.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091855/verticalBanner/845x1080fc463271793d428da66500a8db79bdd047f0c2c21822417b8a456e594cb23359.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
+      }
+    },
+    {
+      "id": "0-1-6z51091877",
+      "title": "LEC Vs BOL",
+      "description": "Watch Lecce Vs Bologna LIVE & Exclusive only on ZEE5. Serie A 2026-27",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Sunday, 11 October 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091877/list/1920x1080listab3faa25e45f496cbe4335703c3cf60ce7aa551a24dc4899bf397aa5c7936150.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091877/cover/1920x770707377c0adf64391b5671fe4502b8e16b3e338a37ac7408f9ebb0d3770c5922540d3cbed285047f8afaa3d2e38a8e264.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091877/appCover/1920x1080appcover1c1058e596ee4169ac745adad38705810cfb329c5fb74624b5705c0e1893c993.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091877/verticalBanner/845x1080fc61f732847947938d91f4da08107517e05582d533234fac89719e5e388b7ad1.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
+      }
+    }
+  ],
+  "upcoming": {
     "0-1-6z51092635": {
       "id": "0-1-6z51092635",
       "title": "SAS Vs MIL | Match Preview",
@@ -89,6 +214,5 @@
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/verticalBanner/skl845x1080verticalbannerda819c7d3828436fa2e106627d10db2f.jpg"
       }
     }
-  },
-  "status": "Offline / No Matches"
+  }
 }
