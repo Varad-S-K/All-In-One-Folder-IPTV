@@ -1,73 +1,60 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Willow Cricket Event Info",
-    "LastUpdate": "03:02 PM 12-10-2026",
+    "LastUpdate": "01:02 AM 13-10-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 2,
-    "UpcomingCount": 12
+    "LiveCount": 1,
+    "UpcomingCount": 13
   },
   "Matches": [
+    {
+      "match_id": "B0HLSZ4843",
+      "title": "World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions",
+      "synopsis": "World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions",
+      "status": "LIVE",
+      "time": "9:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa2e2ab4-efd7-42ef-b5e8-f4c1d8e89c70/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLSZ4843?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
+      "is_free": false,
+      "stream_url_alpha": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd"
+      },
+      "stream_url_bravo": {
+        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lmcf4zxsje/out/v1/d59632a317704d228977a19370d8a2ae/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lmcf4zxsje/out/v1/d59632a317704d228977a19370d8a2ae/cenc.mpd",
+        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/lmcf4zxsje/out/v1/d59632a317704d228977a19370d8a2ae/cenc.mpd",
+        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lmcf4zxsje/out/v1/d59632a317704d228977a19370d8a2ae/cenc.mpd",
+        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lmcf4zxsje/out/v1/d59632a317704d228977a19370d8a2ae/cenc.mpd"
+      },
+      "drm_key": "241f2a47c5d18b2963e965742843dbea:b342a3dc0f9048244ff2883bedbbb730"
+    },
     {
       "match_id": "B0HLG67G7Q",
       "title": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
       "synopsis": "Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh",
-      "status": "LIVE",
-      "time": "11:30 AM BDT",
+      "status": "UPCOMING",
+      "time": "Live at 11:30 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/7/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLG67G7Q?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_1",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HLG67G7Q?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
       "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd"
-      },
-      "drm_key": "cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf"
+      "stream_url_alpha": "",
+      "drm_key": ""
     },
     {
       "match_id": "B0HKFRWMBH",
       "title": "Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia",
       "synopsis": "Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia",
-      "status": "LIVE",
-      "time": "1 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKFRWMBH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_2",
-      "is_free": false,
-      "stream_url_alpha": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd"
-      },
-      "stream_url_bravo": {
-        "Fistly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yl9r6tbirc/out/v1/9cc35bdd6b6f4131a1fc4d1a054d246a/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yl9r6tbirc/out/v1/9cc35bdd6b6f4131a1fc4d1a054d246a/cenc.mpd",
-        "Akamai Server": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/yl9r6tbirc/out/v1/9cc35bdd6b6f4131a1fc4d1a054d246a/cenc.mpd",
-        "Cloudfront Server 1": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yl9r6tbirc/out/v1/9cc35bdd6b6f4131a1fc4d1a054d246a/cenc.mpd",
-        "Cloudfront Server 2": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yl9r6tbirc/out/v1/9cc35bdd6b6f4131a1fc4d1a054d246a/cenc.mpd"
-      },
-      "drm_key": "abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df"
-    },
-    {
-      "match_id": "B0HLSZ4843",
-      "title": "World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions",
-      "synopsis": "World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions",
       "status": "UPCOMING",
-      "time": "Live at 9:30 PM BDT",
-      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa2e2ab4-efd7-42ef-b5e8-f4c1d8e89c70/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HLSZ4843?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
+      "time": "Live at 1:30 PM BDT",
+      "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKFRWMBH?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_3",
       "is_free": false,
       "stream_url_alpha": "",
       "drm_key": ""
@@ -77,7 +64,7 @@
       "title": "World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions",
       "synopsis": "World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions",
       "status": "UPCOMING",
-      "time": "Tomorrow 5:30 PM BDT",
+      "time": "Live at 5:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cdc9cd37-d91c-4bfd-98de-3dca55bce2e8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HK14NRTX?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_4",
       "is_free": false,
@@ -89,7 +76,7 @@
       "title": "Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka",
       "synopsis": "Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka",
       "status": "UPCOMING",
-      "time": "Tomorrow 7 PM BDT",
+      "time": "Live at 7 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.51687d87-e60f-4b13-b24a-cdc87f75cd9c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HL1539PF?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_5",
       "is_free": false,
@@ -101,7 +88,7 @@
       "title": "World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions",
       "synopsis": "World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions",
       "status": "UPCOMING",
-      "time": "Tomorrow 9:30 PM BDT",
+      "time": "Live at 9:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc23bbae-312c-498d-a861-9e646bdd67cb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HKRXBRWV?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_6",
       "is_free": false,
@@ -113,7 +100,7 @@
       "title": "Bangladesh Women tour of Australia 2026 - 3rd ODI - Australia Women vs Bangladesh Women",
       "synopsis": "Bangladesh Women tour of Australia 2026 - 3rd ODI - Australia Women vs Bangladesh Women",
       "status": "UPCOMING",
-      "time": "Wed, Oct 14 9:50 AM BDT",
+      "time": "Tomorrow 9:50 AM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2deaa170-a5ef-4927-b11b-ecec3c38094e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0H67BR4HM?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_7",
       "is_free": false,
@@ -125,7 +112,7 @@
       "title": "World Championship of Legends 2026 - 20th Match - England Champions vs Pakistan Champions",
       "synopsis": "World Championship of Legends 2026 - 20th Match - England Champions vs Pakistan Champions",
       "status": "UPCOMING",
-      "time": "Wed, Oct 14 5:30 PM BDT",
+      "time": "Tomorrow 5:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1cb2e3c0-3189-44e4-a97c-e64801579a57/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HJZN542R?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_8",
       "is_free": false,
@@ -137,7 +124,7 @@
       "title": "West Indies tour of India 2026 - 4th T20I - India vs West Indies",
       "synopsis": "West Indies tour of India 2026 - 4th T20I - India vs West Indies",
       "status": "UPCOMING",
-      "time": "Wed, Oct 14 7:30 PM BDT",
+      "time": "Tomorrow 7:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eb485c36-d154-4681-b87b-81f985a775b5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HKCPFL9G?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_9",
       "is_free": false,
@@ -149,7 +136,7 @@
       "title": "World Championship of Legends 2026 - 16th Match - Australia Champions vs England Champions",
       "synopsis": "World Championship of Legends 2026 - 16th Match - Australia Champions vs England Champions",
       "status": "UPCOMING",
-      "time": "Wed, Oct 14 8:30 PM BDT",
+      "time": "Tomorrow 8:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.626b2305-90e3-41ea-a88a-a3280dc97638/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HK18F8NM?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_10",
       "is_free": false,
@@ -161,7 +148,7 @@
       "title": "World Championship of Legends 2026 - 17th Match - Bangladesh Champions vs South Africa Champions",
       "synopsis": "World Championship of Legends 2026 - 17th Match - Bangladesh Champions vs South Africa Champions",
       "status": "UPCOMING",
-      "time": "Wed, Oct 14 9:30 PM BDT",
+      "time": "Tomorrow 9:30 PM BDT",
       "cover_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9238c000-24c5-4723-927e-f21e892189af/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
       "match_url": "https://www.amazon.com/gp/video/detail/B0HLW7T6D1?jic=32%7CCgh3aWxsb3d0dhIMc3Vic2NyaXB0aW9u&ref_=atv_3p_amz_c_Gu0OSt_2_11",
       "is_free": false,
