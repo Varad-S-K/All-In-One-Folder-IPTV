@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:08:43 AM 10-12-2026
+#LAST_UPDATE:06:14 PM 10-12-2026
 #Created by - Sayan 10
 #EXTINF:-1 tvg-id="17" tvg-name="Test Series: AFG vs BAN - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket",Test Series: AFG vs BAN - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -38,6 +38,22 @@ https://playztv-apps.pages.dev/a-sports/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1
 #EXTVLCOPT:http-referrer=https%3A%2F%2Ffancode.com%2F
 https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://pull.streamviewk7x.click/livesp/sd-6MxjK4S4BPKfjZs9er_autosp.m3u8?txSecret=565cc0b759131495d111021cc6f6f0de&txTime=6ACE3960
+
+#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live2.dyrur1.com/live/14512696_2e4bd69bc8446e65ba548b7840882739_1080p.m3u8?auth_key=1791827680-0-0-f7bbeff75afd9252665579ca0bb7e98b
+
+#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - GHD SPORTS LQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - GHD SPORTS LQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://player.online909.com/
+https://live.vivo155.com/live/sd-1-4655587.m3u8?txSecret=8c518afeca78215f222366f9c573fa23&txTime=6ACCEA1D
 
 #EXTINF:-1 tvg-id="12" tvg-name="WEST INDIES TOUR OF INDIA: IND vs WI - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",WEST INDIES TOUR OF INDIA: IND vs WI - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -99,22 +115,6 @@ https://live.incableinternet.com/ptv-sports/720p.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-
-#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - SonyLiv HIN AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - SonyLiv HIN AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
-#EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1110/HIN/master.m3u8?hdnea=exp=1791755130~acl=/*~id=08120589705907662629701154845457~hmac=536d869dba3d598fddb7ae3a95ab4046a1c66f434dd724d89b01e987f7444e7c
-
-#EXTINF:-1 tvg-id="1131" tvg-name="INDIAN SUPER LEAGUE - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="Football",INDIAN SUPER LEAGUE - SonyLiv ENG AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A157.0%29+Gecko%2F20100101+Firefox%2F157.0
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
-#EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1110/ENG/master.m3u8?hdnea=exp=1791755130~acl=/*~id=08120589705907662629701154845457~hmac=536d869dba3d598fddb7ae3a95ab4046a1c66f434dd724d89b01e987f7444e7c
 
 #EXTINF:-1 tvg-id="42" tvg-name="WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="Cricket",WORLD CHAMPIONSHIP OF LEGENDS - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -200,6 +200,38 @@ https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
 #EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7fe9d436-3197-4cbd-ab5b-76a0c27c2dc9/master.m3u8
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - ck 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - ck 1
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - ck 2" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - ck 2
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - ck 3" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - ck 3
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - ck 4" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - ck 4
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://edge.cowedd4855ws.sbs/premium32/index.m3u8?_=1791798676753
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - 1
+https://dlive.sx/watch.php?id=32
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - 2" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - 2
+https://dlive.sx/watch.php?id=32
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - 3" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - 3
+https://dlive.sx/watch.php?id=32
+
+#EXTINF:-1 tvg-id="267" tvg-name="Formula1 - 4" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Racing",Formula1 - 4
+https://dlive.sx/watch.php?id=32
 
 #EXTINF:-1 tvg-id="276" tvg-name="WWE NXT - FAST SERVER HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="WWE",WWE NXT - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -381,44 +413,21 @@ https://dlive.sx/stream/stream-550.php
 #EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Levante vs Sevilla - test 3" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Levante vs Sevilla - test 3
 https://dlive.sx/stream/stream-550.php
 
-#EXTINF:-1 tvg-id="758" tvg-name="ICC Men's T20 World Cup Qualifier: THA vs MYA - ICC TV English - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23358/image/dark" group-title="Cricket",ICC Men's T20 World Cup Qualifier: THA vs MYA - ICC TV English - AQ
+#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - BEIN SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791813707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=913390cbea71b33e33e437643b568493f579183f9ff62d98b7f282c7c22e5bcc/manifest.mpd?vcfilter=21d3b7c5-854d-405e-bd8a-513a3b2fefd4
-
-#EXTINF:-1 tvg-id="759" tvg-name="ICC Men's T20 World Cup Qualifier: MNG vs QAT - ICC TV" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23358/image/dark" group-title="Cricket",ICC Men's T20 World Cup Qualifier: MNG vs QAT - ICC TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791812912~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=27ca04f227fc4750266a9fa95873d78e99ccc4d98c62280815806de64d38ff9c/manifest.mpd?vcfilter=e25d3ab2-54e0-4f0a-8af0-aecc147a18d3
-
-#EXTINF:-1 tvg-id="760" tvg-name="ICC Men's T20 World Cup Qualifier: KUW vs BHU - ICC TV" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23358/image/dark" group-title="Cricket",ICC Men's T20 World Cup Qualifier: KUW vs BHU - ICC TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791812738~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=33947c688faeda47331feeab578250172cbaf3eb459321939e97716166565d6d/manifest.mpd?vcfilter=58a0cadb-8352-4d0f-97fe-bbf43c85ac75
-
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - TNT SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - BeIN SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - BeIN SPORTS FHD
+#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - CBS NETWORK FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - CBS NETWORK FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - SPORT1 CZ FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - SPORT1 CZ FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -430,7 +439,7 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/c54b2cec-839b-4899-85e0-9d691e6b611b.m3u8
+https://www.rtmpcdn.com/live/48e91178-39d6-423d-bf2c-0bbd3dcf43b9.m3u8
 
 #EXTINF:-1 tvg-id="769" tvg-name="Serie A: Atalanta vs Venezia - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Atalanta vs Venezia - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -438,7 +447,7 @@ https://www.rtmpcdn.com/live/c54b2cec-839b-4899-85e0-9d691e6b611b.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/GUUUA.m3u8
+http://193.47.62.55/hls/A555AAAAAA.m3u8
 
 #EXTINF:-1 tvg-id="770" tvg-name="Serie A: Torino vs Udinese - BEIN SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Torino vs Udinese - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -532,32 +541,42 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.50/hls/HHHHRAAA.m3u8
 
-#EXTINF:-1 tvg-id="773" tvg-name="AFC Champions League Elite: Pakhtakor vs Al-Qadsiah - BeIN Arabic HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Pakhtakor vs Al-Qadsiah - BeIN Arabic HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8
-
 #EXTINF:-1 tvg-id="773" tvg-name="AFC Champions League Elite: Pakhtakor vs Al-Qadsiah - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Pakhtakor vs Al-Qadsiah - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/VTTTQQQ.m3u8
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/YFFFAAAA.m3u8
 
 #EXTINF:-1 tvg-id="774" tvg-name="AFC Champions League Elite: Al-Wasl vs Al-Ahli - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Wasl vs Al-Ahli - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/FCCCQQ.m3u8
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://193.47.62.50/hls/A555A.m3u8
 
-#EXTINF:-1 tvg-id="775" tvg-name="AFC Champions League Elite: Al-Nassr vs Neftchi - BEIN ARABIC HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Nassr vs Neftchi - BEIN ARABIC HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tmaxapp.site/8wirwjs76erftg/bein4ar.m3u8
+#EXTINF:-1 tvg-id="774" tvg-name="AFC Champions League Elite: Al-Wasl vs Al-Ahli - FANCODE  FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Wasl vs Al-Ahli - FANCODE  FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="775" tvg-name="AFC Champions League Elite: Al-Nassr vs Neftchi - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Nassr vs Neftchi - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/c1424952-165c-4631-b860-9ed05881e00f.m3u8
+#EXTINF:-1 tvg-id="775" tvg-name="AFC Champions League Elite: Al-Nassr vs Neftchi - SportDigital Fussball" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Nassr vs Neftchi - SportDigital Fussball
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="775" tvg-name="AFC Champions League Elite: Al-Nassr vs Neftchi - FANCODE  FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Nassr vs Neftchi - FANCODE  FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-id="775" tvg-name="AFC Champions League Elite: Al-Nassr vs Neftchi - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football",AFC Champions League Elite: Al-Nassr vs Neftchi - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
