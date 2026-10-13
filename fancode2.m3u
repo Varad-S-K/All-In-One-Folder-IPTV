@@ -1,14 +1,18 @@
 #EXTM3U
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Tuesday, 13 October 2026 at 12:21:15 am
-#EXTINF:-1 tvg-id="4248699" tvg-name="Air Force Sc Vs Al Ain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248699_53053_AFSC_AAI_fc-web.jpg" tvg-language="English" group-title="Football",ENG | Air Force Sc Vs Al Ain
-https://dai-fancode.pages.dev/mumbai/4248699_english_hls_5d2510704f89250_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248700" tvg-name="Al Nassr Fc Vs Pfc Neftchi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248700_53053_ANF_NB_FC-WEB.jpg" tvg-language="English" group-title="Football",ENG | Al Nassr Fc Vs Pfc Neftchi
-https://dai-fancode.pages.dev/mumbai/4248700_english_hls_e4ee0f5c1189353_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248701" tvg-name="Al Gharafa Vs Esteghlal Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248701_53053_AGH_ESG_fc-web.jpg" tvg-language="English" group-title="Football",ENG | Al Gharafa Vs Esteghlal Fc
-https://dai-fancode.pages.dev/mumbai/4248701_english_hls_d3848bf85e22338_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4247643" tvg-name="Levante Vs Sevilla Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247643_53004_LET_SEV_FC-Web.png" tvg-language="English" group-title="Football",ENG | Levante Vs Sevilla Fc
-https://dai-fancode.pages.dev/mumbai/4247643_english_hls_684a1016e550051_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4249268" tvg-name="Tenerife Vs Girona Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249268_53017_TFE_GIR_FC-Web.png" tvg-language="English" group-title="Football",ENG | Tenerife Vs Girona Fc
-https://dai-fancode.pages.dev/mumbai/4249268_english_hls_f05c7ccc9277242_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Tuesday, 13 October 2026 at 8:56:13 pm
+#EXTINF:-1 tvg-id="4249661" tvg-name="Usa Vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249661_53086_USA_NAM_fc-App.png" tvg-language="English" group-title="Cricket",ENG | Usa Vs Namibia
+https://dai-fancode.pages.dev/mumbai/4249661_english_hls_9bc340b99751112_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249231" tvg-name="India Champions Vs West Indies Champions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249231_53069_IAC_WIC_FC-Web_1790764441502.png" tvg-language="English" group-title="Cricket",ENG | India Champions Vs West Indies Champions
+https://dai-fancode.pages.dev/mumbai/4249231_english_hls_8d8721ea9f48444_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250164" tvg-name="Icr Falcons Vs All Stars Cardinals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250164_53113_ICR_ASC_fc-web_1791793971741.jpg" tvg-language="English" group-title="Cricket",ENG | Icr Falcons Vs All Stars Cardinals
+https://dai-fancode.pages.dev/mumbai/4250164_english_hls_57e8eefdfb29254_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250165" tvg-name="Prime Raider Gladiators Vs Atlanta Force" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250165_53113_PRG_AFO_fc-web_1791793972541.jpg" tvg-language="English" group-title="Cricket",ENG | Prime Raider Gladiators Vs Atlanta Force
+https://dai-fancode.pages.dev/mumbai/4250165_english_hls_f65f0b73cc2254_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250166" tvg-name="Atlanta Lightning Vs Bay Blazers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250166_53113_AL_BB_fc-web_1791793971755.jpg" tvg-language="English" group-title="Cricket",ENG | Atlanta Lightning Vs Bay Blazers
+https://dai-fancode.pages.dev/mumbai/4250166_english_hls_54834b980116847_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248975" tvg-name="East Bengal Fc Vs Al Shorta" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248975_53057_EBFC_SHR_fc-web_1789025066366.jpg" tvg-language="English" group-title="Football",ENG | East Bengal Fc Vs Al Shorta
+https://dai-fancode.pages.dev/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248836" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Tennis",ENG | World Feed
+https://dai-fancode.pages.dev/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
