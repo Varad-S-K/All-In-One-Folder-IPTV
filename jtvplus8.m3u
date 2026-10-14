@@ -782,12 +782,6 @@ https://premiumplug.fun/zee/zee5.php/0-9-tvpictureshd.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/zee/zee5.php/0-9-pictures.m3u8
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249661_53086_USA_NAM_fc-web.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - USA vs Namibia
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4249661_english_hls_9bc340b99751112_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791989635~_GO=Generated~acl=/mumbai/4249661_english_hls_9bc340b99751112_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8b825f8e-6282-44~Signature=AZJsJWbdfREV4LlncNKXCNuYgPQ2Hukq9qlqqnZGdAdwfSNhfoqdiWPQYzWOvF221t_PXsZy_A4nJiOOQuifX28Y5FEE
-
 # ------------=== VT OTT | CIO ===---------------
 
 #EXTM3U
