@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:08:56 PM 10-16-2026
+#LAST_UPDATE:11:18 PM 10-16-2026
 #Created by - Sayan 10
 #EXTINF:-1 tvg-id="748" tvg-name="Premier League: Fulham vs Hull - NBC SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Fulham vs Hull - NBC SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -962,6 +962,29 @@ https://www.rtmpcdn.com/live/31fa0202-5573-4f15-bd20-bd59025055f4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
+#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Frosinone vs Sassuolo - SPORT1 CZ FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Frosinone vs Sassuolo - SPORT1 CZ FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Frosinone vs Sassuolo - ESPN SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Frosinone vs Sassuolo - ESPN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+http://193.47.62.50/hls/8FFFFQ.m3u8
+
+#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Frosinone vs Sassuolo - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Frosinone vs Sassuolo - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+https://www.rtmpcdn.com/live/7b537799-ef43-4c21-a96c-539ccd5c9faf.m3u8
+
 #EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Strasbourg vs PSG - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Strasbourg vs PSG - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1132,25 +1155,21 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.50/hls/HHHHRAAA.m3u8
 
+#EXTINF:-1 tvg-id="1003" tvg-name="Ligue 1: Le Mans vs Toulouse - League+ Live HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Le Mans vs Toulouse - League+ Live HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+http://193.47.62.50/hls/8FFFFQQ.m3u8
+
 #EXTINF:-1 tvg-id="1003" tvg-name="Ligue 1: Le Mans vs Toulouse - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Le Mans vs Toulouse - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/KRRRRAAA.m3u8
-
-#EXTINF:-1 tvg-id="1003" tvg-name="Ligue 1: Le Mans vs Toulouse - BeIN SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Le Mans vs Toulouse - BeIN SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream7.pro/hls/b0h5fNwDKH.m3u8
-
-#EXTINF:-1 tvg-id="1003" tvg-name="Ligue 1: Le Mans vs Toulouse - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football",Ligue 1: Le Mans vs Toulouse - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/bad425e1-d983-43b7-8248-f9f2a6d0d640.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+https://www.rtmpcdn.com/live/74dfa1a3-987b-4808-9b36-8a8264bfa777.m3u8
 
 #EXTINF:-1 tvg-id="1005" tvg-name="Championship: Middlesbrough vs Cardiff - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: Middlesbrough vs Cardiff - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -1373,6 +1392,14 @@ https://www.rtmpcdn.com/live/fd9fda85-b484-4ba9-921a-ad3bac85803b.m3u8
 #EXTVLCOPT:http-origin=https://amazon.com
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
+#EXTINF:-1 tvg-id="1134" tvg-name="Bundesliga: Frankfurt vs KÃ¶ln - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football",Bundesliga: Frankfurt vs KÃ¶ln - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+https://www.rtmpcdn.com/live/c03a3e8b-ff7f-4afc-9d70-ef279a67849a.m3u8
+
 #EXTINF:-1 tvg-id="752" tvg-name="Premier League: Brighton vs Crystal Palace - FUBO SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Brighton vs Crystal Palace - FUBO SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1517,6 +1544,22 @@ https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="768" tvg-name="LaLiga: Deportivo vs Levante - EAPN SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Deportivo vs Levante - EAPN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+http://193.47.62.50/hls/8FFFFQQQQQAA.m3u8
+
+#EXTINF:-1 tvg-id="768" tvg-name="LaLiga: Deportivo vs Levante - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football",LaLiga: Deportivo vs Levante - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+https://www.rtmpcdn.com/live/87930aa5-8315-4fa0-9cd1-b1b31944fe8c.m3u8
 
 #EXTINF:-1 tvg-id="777" tvg-name="Premier League: Forest vs Arsenal - FUBO SPORTS - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Forest vs Arsenal - FUBO SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1972,6 +2015,14 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q4u5nwao
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="975" tvg-name="Championship: Burnley vs Wolves - SKY SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: Burnley vs Wolves - SKY SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
+#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
+#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
+http://193.47.62.50/hls/8FFFFQQQQQAAA.m3u8
 
 #EXTINF:-1 tvg-id="1006" tvg-name="Championship: Millwall vs Lincoln - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football",Championship: Millwall vs Lincoln - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
