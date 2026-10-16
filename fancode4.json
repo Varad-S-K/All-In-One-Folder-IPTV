@@ -2,52 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "11:37:36 PM 16-10-2026",
-    "generated_at": "2026-10-16 18:15:37",
+    "source_last_updated": "02:41:55 AM 17-10-2026",
+    "generated_at": "2026-10-16 21:25:09",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 38,
-    "live_matches_count": 2,
-    "upcoming_matches_count": 36,
+    "total_matches": 37,
+    "live_matches_count": 0,
+    "upcoming_matches_count": 37,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249229_ENG",
-            "title": "World Championship of Legends, 2026 [English]",
-            "match_name": "Australia Champions vs West Indies Champions [English]",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png",
-            "team_1": "Australia Champions",
-            "team_2": "West Indies Champions",
-            "status": "LIVE",
-            "startTime": "09:00:00 PM 16-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249229_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": "4249229_HIN",
-            "title": "World Championship of Legends, 2026 [Hindi]",
-            "match_name": "Australia Champions vs West Indies Champions [Hindi]",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png",
-            "team_1": "Australia Champions",
-            "team_2": "West Indies Champions",
-            "status": "LIVE",
-            "startTime": "09:00:00 PM 16-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "Hindi",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249229_HIN/hindi.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": 4249283,
@@ -75,32 +37,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4247653,
-            "title": "Deportivo de La Coruna vs Levante (LALIGA 2026-27)",
-            "match_name": "Deportivo de La Coruna vs Levante",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247653_53004_COR_LET_FC-Web.png",
-            "team_1": "Deportivo de La Coruna",
-            "team_2": "Levante",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249594,
-            "title": "Burnley vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
-            "match_name": "Burnley vs Wolverhampton Wanderers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249594_52993_BUR_WOL_fc-web.jpg",
-            "team_1": "Burnley",
-            "team_2": "Wolverhampton Wanderers F.C.",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249694,
             "title": "Bangladesh vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
@@ -111,19 +47,6 @@
             "team_2": "Zimbabwe",
             "status": "UPCOMING",
             "startTime": "05:00:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249994,
-            "title": "Leganes vs Cordoba (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Cordoba",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Cordoba",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 AM 17-10-2026",
             "user-agent": null
         },
         {
@@ -231,19 +154,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249595,
-            "title": "Watford F.C. vs Charlton Athletic F.C (EFL Championship 2026-27)",
-            "match_name": "Watford F.C. vs Charlton Athletic F.C",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249595_52993_WAT_CHL_fc-web.jpg",
-            "team_1": "Watford F.C.",
-            "team_2": "Charlton Athletic F.C",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250228,
             "title": "Darmstadt CC vs Koln CC (GSL Championship 2026)",
@@ -254,6 +164,19 @@
             "team_2": "Koln CC",
             "status": "UPCOMING",
             "startTime": "06:00:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249595,
+            "title": "Watford F.C. vs Charlton Athletic F.C (EFL Championship 2026-27)",
+            "match_name": "Watford F.C. vs Charlton Athletic F.C",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249595_52993_WAT_CHL_fc-web.jpg",
+            "team_1": "Watford F.C.",
+            "team_2": "Charlton Athletic F.C",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 17-10-2026",
             "user-agent": null
         },
         {
@@ -296,19 +219,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249596,
-            "title": "Norwich City F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
-            "match_name": "Norwich City F.C. vs Portsmouth F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249596_52993_NOR_PRM_fc-web.jpg",
-            "team_1": "Norwich City F.C.",
-            "team_2": "Portsmouth F.C.",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250229,
             "title": "TSV Malmsheim vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
@@ -319,6 +229,19 @@
             "team_2": "THCC Rot-Gelb Hamburg",
             "status": "UPCOMING",
             "startTime": "08:00:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249596,
+            "title": "Norwich City F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
+            "match_name": "Norwich City F.C. vs Portsmouth F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249596_52993_NOR_PRM_fc-web.jpg",
+            "team_1": "Norwich City F.C.",
+            "team_2": "Portsmouth F.C.",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 17-10-2026",
             "user-agent": null
         },
         {
@@ -336,19 +259,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249193,
-            "title": "Arsenal Women vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Arsenal Women vs Birmingham City F.C. Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249193_53038_ARS-W_BIR-W_fc-web_1791063400607.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Birmingham City F.C. Women",
-            "status": "UPCOMING",
-            "startTime": "05:15:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4247656,
             "title": "Real Betis vs FC Barcelona (LALIGA 2026-27)",
             "match_name": "Real Betis vs FC Barcelona",
@@ -358,19 +268,6 @@
             "team_2": "FC Barcelona",
             "status": "UPCOMING",
             "startTime": "10:00:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249995,
-            "title": "Eibar vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
-            "match_name": "Eibar vs RCD Mallorca",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249995_53017_EIB_MRC_FC-Web.png",
-            "team_1": "Eibar",
-            "team_2": "RCD Mallorca",
-            "status": "UPCOMING",
-            "startTime": "07:35:00 PM 17-10-2026",
             "user-agent": null
         },
         {
@@ -401,6 +298,32 @@
         },
         {
             "event_category": "Football",
+            "match_id": 4249193,
+            "title": "Arsenal Women vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Arsenal Women vs Birmingham City F.C. Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249193_53038_ARS-W_BIR-W_fc-web_1791063400607.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Birmingham City F.C. Women",
+            "status": "UPCOMING",
+            "startTime": "05:15:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249995,
+            "title": "Eibar vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
+            "match_name": "Eibar vs RCD Mallorca",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249995_53017_EIB_MRC_FC-Web.png",
+            "team_1": "Eibar",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "startTime": "07:35:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
             "match_id": 4247655,
             "title": "Valencia CF vs Athletic Club (LALIGA 2026-27)",
             "match_name": "Valencia CF vs Athletic Club",
@@ -410,6 +333,32 @@
             "team_2": "Athletic Club",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 18-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249996,
+            "title": "Las Palmas vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Las Palmas vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249996_53017_LAP_CAS_FC-Web.png",
+            "team_1": "Las Palmas",
+            "team_2": "Castellón",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 18-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249798,
+            "title": "Melbourne Renegades Women vs Hobart Hurricanes Women (T20 Spring Challenge, 2026)",
+            "match_name": "Melbourne Renegades Women vs Hobart Hurricanes Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png",
+            "team_1": "Melbourne Renegades Women",
+            "team_2": "Hobart Hurricanes Women",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 AM 18-10-2026",
             "user-agent": null
         },
         {
@@ -436,19 +385,6 @@
             "team_2": "Perth Glory",
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249996,
-            "title": "Las Palmas vs Castellón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Las Palmas vs Castellón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249996_53017_LAP_CAS_FC-Web.png",
-            "team_1": "Las Palmas",
-            "team_2": "Castellón",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 18-10-2026",
             "user-agent": null
         },
         {
@@ -515,48 +451,48 @@
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 17-10-2026",
             "user-agent": null
-        }
-    ],
-    "live_matches": [
+        },
         {
-            "event_category": "Cricket",
-            "match_id": "4249229_ENG",
-            "title": "World Championship of Legends, 2026 [English]",
-            "match_name": "Australia Champions vs West Indies Champions [English]",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png",
-            "team_1": "Australia Champions",
-            "team_2": "West Indies Champions",
-            "status": "LIVE",
-            "startTime": "09:00:00 PM 16-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249229_ENG/english.m3u8"
-                }
-            ]
+            "event_category": "Football",
+            "match_id": 4249837,
+            "title": "Central Coast Mariners vs Newcastle Jets (A-League 2026-27)",
+            "match_name": "Central Coast Mariners vs Newcastle Jets",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249837_53101_CCM_NJ_fc-Web_1791982771819.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Newcastle Jets",
+            "status": "UPCOMING",
+            "startTime": "02:10:00 PM 17-10-2026",
+            "user-agent": null
         },
         {
             "event_category": "Cricket",
-            "match_id": "4249229_HIN",
-            "title": "World Championship of Legends, 2026 [Hindi]",
-            "match_name": "Australia Champions vs West Indies Champions [Hindi]",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png",
-            "team_1": "Australia Champions",
-            "team_2": "West Indies Champions",
-            "status": "LIVE",
-            "startTime": "09:00:00 PM 16-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "Hindi",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249229_HIN/hindi.m3u8"
-                }
-            ]
+            "match_id": 4249799,
+            "title": "Brisbane Heat Women vs Adelaide Strikers Women (T20 Spring Challenge, 2026)",
+            "match_name": "Brisbane Heat Women vs Adelaide Strikers Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249799_53097_BH-W_AS-W_FC-Web_1791883788852.png",
+            "team_1": "Brisbane Heat Women",
+            "team_2": "Adelaide Strikers Women",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 18-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249800,
+            "title": "Sydney Thunder Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
+            "match_name": "Sydney Thunder Women vs Perth Scorchers Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249800_53097_ST-W_PS-W_FC-Web_1791883788884.png",
+            "team_1": "Sydney Thunder Women",
+            "team_2": "Perth Scorchers Women",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 18-10-2026",
+            "user-agent": null
         }
     ],
+    "live_matches": [],
     "upcoming_matches": [
         {
             "event_category": "Cricket",
@@ -585,32 +521,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4247653,
-            "title": "Deportivo de La Coruna vs Levante (LALIGA 2026-27)",
-            "match_name": "Deportivo de La Coruna vs Levante",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247653_53004_COR_LET_FC-Web.png",
-            "team_1": "Deportivo de La Coruna",
-            "team_2": "Levante",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249594,
-            "title": "Burnley vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
-            "match_name": "Burnley vs Wolverhampton Wanderers F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249594_52993_BUR_WOL_fc-web.jpg",
-            "team_1": "Burnley",
-            "team_2": "Wolverhampton Wanderers F.C.",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249694,
             "title": "Bangladesh vs Zimbabwe (Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026)",
@@ -621,19 +531,6 @@
             "team_2": "Zimbabwe",
             "status": "UPCOMING",
             "startTime": "05:00:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249994,
-            "title": "Leganes vs Cordoba (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Cordoba",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Cordoba",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 AM 17-10-2026",
             "user-agent": null
         },
         {
@@ -741,19 +638,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249595,
-            "title": "Watford F.C. vs Charlton Athletic F.C (EFL Championship 2026-27)",
-            "match_name": "Watford F.C. vs Charlton Athletic F.C",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249595_52993_WAT_CHL_fc-web.jpg",
-            "team_1": "Watford F.C.",
-            "team_2": "Charlton Athletic F.C",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250228,
             "title": "Darmstadt CC vs Koln CC (GSL Championship 2026)",
@@ -764,6 +648,19 @@
             "team_2": "Koln CC",
             "status": "UPCOMING",
             "startTime": "06:00:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249595,
+            "title": "Watford F.C. vs Charlton Athletic F.C (EFL Championship 2026-27)",
+            "match_name": "Watford F.C. vs Charlton Athletic F.C",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249595_52993_WAT_CHL_fc-web.jpg",
+            "team_1": "Watford F.C.",
+            "team_2": "Charlton Athletic F.C",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 17-10-2026",
             "user-agent": null
         },
         {
@@ -806,19 +703,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249596,
-            "title": "Norwich City F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
-            "match_name": "Norwich City F.C. vs Portsmouth F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249596_52993_NOR_PRM_fc-web.jpg",
-            "team_1": "Norwich City F.C.",
-            "team_2": "Portsmouth F.C.",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250229,
             "title": "TSV Malmsheim vs THCC Rot-Gelb Hamburg (GSL Championship 2026)",
@@ -829,6 +713,19 @@
             "team_2": "THCC Rot-Gelb Hamburg",
             "status": "UPCOMING",
             "startTime": "08:00:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249596,
+            "title": "Norwich City F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
+            "match_name": "Norwich City F.C. vs Portsmouth F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249596_52993_NOR_PRM_fc-web.jpg",
+            "team_1": "Norwich City F.C.",
+            "team_2": "Portsmouth F.C.",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 17-10-2026",
             "user-agent": null
         },
         {
@@ -846,19 +743,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249193,
-            "title": "Arsenal Women vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Arsenal Women vs Birmingham City F.C. Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249193_53038_ARS-W_BIR-W_fc-web_1791063400607.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Birmingham City F.C. Women",
-            "status": "UPCOMING",
-            "startTime": "05:15:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4247656,
             "title": "Real Betis vs FC Barcelona (LALIGA 2026-27)",
             "match_name": "Real Betis vs FC Barcelona",
@@ -868,19 +752,6 @@
             "team_2": "FC Barcelona",
             "status": "UPCOMING",
             "startTime": "10:00:00 PM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249995,
-            "title": "Eibar vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
-            "match_name": "Eibar vs RCD Mallorca",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249995_53017_EIB_MRC_FC-Web.png",
-            "team_1": "Eibar",
-            "team_2": "RCD Mallorca",
-            "status": "UPCOMING",
-            "startTime": "07:35:00 PM 17-10-2026",
             "user-agent": null
         },
         {
@@ -911,6 +782,32 @@
         },
         {
             "event_category": "Football",
+            "match_id": 4249193,
+            "title": "Arsenal Women vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Arsenal Women vs Birmingham City F.C. Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249193_53038_ARS-W_BIR-W_fc-web_1791063400607.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Birmingham City F.C. Women",
+            "status": "UPCOMING",
+            "startTime": "05:15:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249995,
+            "title": "Eibar vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
+            "match_name": "Eibar vs RCD Mallorca",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249995_53017_EIB_MRC_FC-Web.png",
+            "team_1": "Eibar",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "startTime": "07:35:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
             "match_id": 4247655,
             "title": "Valencia CF vs Athletic Club (LALIGA 2026-27)",
             "match_name": "Valencia CF vs Athletic Club",
@@ -920,6 +817,32 @@
             "team_2": "Athletic Club",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 18-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249996,
+            "title": "Las Palmas vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Las Palmas vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249996_53017_LAP_CAS_FC-Web.png",
+            "team_1": "Las Palmas",
+            "team_2": "Castellón",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 18-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249798,
+            "title": "Melbourne Renegades Women vs Hobart Hurricanes Women (T20 Spring Challenge, 2026)",
+            "match_name": "Melbourne Renegades Women vs Hobart Hurricanes Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png",
+            "team_1": "Melbourne Renegades Women",
+            "team_2": "Hobart Hurricanes Women",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 AM 18-10-2026",
             "user-agent": null
         },
         {
@@ -946,19 +869,6 @@
             "team_2": "Perth Glory",
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 17-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249996,
-            "title": "Las Palmas vs Castellón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Las Palmas vs Castellón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249996_53017_LAP_CAS_FC-Web.png",
-            "team_1": "Las Palmas",
-            "team_2": "Castellón",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 18-10-2026",
             "user-agent": null
         },
         {
@@ -1024,6 +934,45 @@
             "team_2": "Shanghai, China",
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249837,
+            "title": "Central Coast Mariners vs Newcastle Jets (A-League 2026-27)",
+            "match_name": "Central Coast Mariners vs Newcastle Jets",
+            "event_name": "A-League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249837_53101_CCM_NJ_fc-Web_1791982771819.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Newcastle Jets",
+            "status": "UPCOMING",
+            "startTime": "02:10:00 PM 17-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249799,
+            "title": "Brisbane Heat Women vs Adelaide Strikers Women (T20 Spring Challenge, 2026)",
+            "match_name": "Brisbane Heat Women vs Adelaide Strikers Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249799_53097_BH-W_AS-W_FC-Web_1791883788852.png",
+            "team_1": "Brisbane Heat Women",
+            "team_2": "Adelaide Strikers Women",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 18-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249800,
+            "title": "Sydney Thunder Women vs Perth Scorchers Women (T20 Spring Challenge, 2026)",
+            "match_name": "Sydney Thunder Women vs Perth Scorchers Women",
+            "event_name": "T20 Spring Challenge, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249800_53097_ST-W_PS-W_FC-Web_1791883788884.png",
+            "team_1": "Sydney Thunder Women",
+            "team_2": "Perth Scorchers Women",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 18-10-2026",
             "user-agent": null
         }
     ]
