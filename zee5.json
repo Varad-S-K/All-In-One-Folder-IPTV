@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "10:15:04 PM 11-10-2026",
+  "last_updated": "09:45:06 PM 16-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -17,6 +17,98 @@
   },
   "matches": [],
   "upcoming": {
+    "0-1-6z51095527": {
+      "id": "0-1-6z51095527",
+      "title": "FCB Vs RBL | Match Preview",
+      "description": "Coming up - FCB Vs RBL&nbsp;compete at the Bundesliga, LIVE at 10:00 PM, 17th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Saturday, 17 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095527/list/0000000053579e9f6fceff1404cb35afdfc40ec2a21.jpg"
+      }
+    },
+    "0-1-6z51095532": {
+      "id": "0-1-6z51095532",
+      "title": "BOL Vs INT | Match Preview",
+      "description": "Coming up - BOL Vs INT compete at the Serie A, LIVE at 9:30 PM, 17th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Saturday, 17 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095532/list/00000000537ed3a77ab9ced41dd96827931a77eb62e.jpg"
+      }
+    },
+    "0-1-6z51095526": {
+      "id": "0-1-6z51095526",
+      "title": "FCU Vs BVB | Match Preview",
+      "description": "Coming up - FCU Vs BVB compete at the Bundesliga, LIVE at 7:00 PM, 17th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Saturday, 17 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095526/list/00000000536aa61a57b0eff4c8c8d1953f794151999.jpg"
+      }
+    },
+    "0-1-6z51095576": {
+      "id": "0-1-6z51095576",
+      "title": "JUV Vs LAZ | Match Preview",
+      "description": "Coming up - JUV Vs LAZ compete at the Serie A, LIVE at 12:15 AM, 19th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Monday, 19 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095576/list/000000005383f35dac70ceb470195c65daee1a45b36.jpg"
+      }
+    },
     "0-1-6z51083982": {
       "id": "0-1-6z51083982",
       "title": "Super League Kerala | Season 3",
