@@ -123,8 +123,8 @@
     "id": "1389",
     "name": "Star Sports 3",
     "stream_url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd",
-    "cookie": "__hdnea__=st=1792249438~exp=1792271038~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=a2600c79118d48a94682485c6959e99982eac742b90ae5199e11e156e6c5335a",
-    "cookie_expires": "18/10/2026 2:33:58 AM IST",
+    "cookie": "__hdnea__=st=1792271072~exp=1792292672~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=7f2bb1798871967180ede562a98505020402624adfadfe31a5cd4c2c4f887032",
+    "cookie_expires": "18/10/2026 8:34:32 AM IST",
     "key_id": "e4e8647eaf0659ac85f61765a5abcdc1",
     "key": "d749c9b27505beb0e1a8b6c30ca65de6",
     "logo": "https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg"
@@ -203,8 +203,8 @@
     "id": "2853",
     "name": "Star Sports 2 Tamil",
     "stream_url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd",
-    "cookie": "__hdnea__=st=1792249443~exp=1792271043~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=f188b2f9050762957d4e01563bd9a0dfdc887726de1dedacce081b945201edda",
-    "cookie_expires": "18/10/2026 2:34:03 AM IST",
+    "cookie": "__hdnea__=st=1792271073~exp=1792292673~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=4ba3da5b964bb6a0e4681443eb77cba277ebb379ff6de27c48f537aa194c9617",
+    "cookie_expires": "18/10/2026 8:34:33 AM IST",
     "key_id": "3979aae1ca51561c9e8074cd618b3864",
     "key": "ae12e0e147d3e76cfa62bfb99bc07109",
     "logo": "https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg"
@@ -223,8 +223,8 @@
     "id": "2852",
     "name": "Star Sports 2 Telugu",
     "stream_url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd",
-    "cookie": "__hdnea__=st=1792249439~exp=1792271039~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=3cc9cdbce02f9b77a1100fb56d4c319411eb15e8edcbaa345379d8172b78de52",
-    "cookie_expires": "18/10/2026 2:33:59 AM IST",
+    "cookie": "__hdnea__=st=1792271073~exp=1792292673~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=9b372edcbad2b97b9cee45009ba5b21f2e66de8a5d413be95702033d6162ea0f",
+    "cookie_expires": "18/10/2026 8:34:33 AM IST",
     "key_id": "e38f46718d9d5c40af83095f176ba41e",
     "key": "8836ee0f7377d71c156a139361a45be5",
     "logo": "https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg"
