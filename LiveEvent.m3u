@@ -1,54 +1,11 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:10:18 AM 10-17-2026
+#LAST_UPDATE:01:48 PM 10-17-2026
 #Created by - Sayan 10
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Fulham vs Hull - NBC SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Fulham vs Hull - NBC SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
-
 #EXTINF:-1 tvg-id="748" tvg-name="Premier League: Fulham vs Hull - Astro Premier League" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Fulham vs Hull - Astro Premier League
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live2.dyrur1.com/live/63kv9igel83tx7e_b6199620501db0795e86f40ffefe3cc4_540p.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Fulham vs Hull - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Fulham vs Hull - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/fc18c739-3bd3-4753-b201-744fffa4b3bb.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Fulham vs Hull - SKY SPORTS MAIN" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Fulham vs Hull - SKY SPORTS MAIN
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fstreame.center
-https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Fulham vs Hull - FUBO SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Fulham vs Hull - FUBO SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fxstream.st%2Flivetv.php%3Fstream%3Dtv401879264
-https://instreams.live/live3/tv401879264/index.m3u8?st=t2dBo5bu86KCCYuKCkvzzA&e=1791741612
-
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Fulham vs Hull - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Fulham vs Hull - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/M999.m3u8
-
-#EXTINF:-1 tvg-id="809" tvg-name="UEFA Champions League: Man City vs AEK - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Man City vs AEK - TNT SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 #EXTINF:-1 tvg-id="809" tvg-name="UEFA Champions League: Man City vs AEK - VIX SPANISH FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Man City vs AEK - VIX SPANISH FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -57,6 +14,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #KODIPROP:inputstream.adaptive.license_key=31d58e7a2d8a693fc8f4193ae1a758db:70b3c31fab9918f891d32d3abfd74ae0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uyjzd9lls9/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd
+
+#EXTINF:-1 tvg-id="809" tvg-name="UEFA Champions League: Man City vs AEK - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Man City vs AEK - TNT SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 #EXTINF:-1 tvg-id="809" tvg-name="UEFA Champions League: Man City vs AEK - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="Football",UEFA Champions League: Man City vs AEK - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -487,76 +452,19 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Everton vs Chelsea - FUBO SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Everton vs Chelsea - FUBO SPORTS FHD
+#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Everton vs Chelsea - TNT SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Everton vs Chelsea - TNT SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
-
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Everton vs Chelsea - NBC SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Everton vs Chelsea - NBC SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
-
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Everton vs Chelsea - USA SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Everton vs Chelsea - USA SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fstreame.center
-https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8
-
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Everton vs Chelsea - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Everton vs Chelsea - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.50/hls/FZZZZ.m3u8
-
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Everton vs Chelsea - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Everton vs Chelsea - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/2060e7b2-f994-40f5-86bf-04a51c7ba936.m3u8
-
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Everton vs Chelsea - Sky Sports Main HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Everton vs Chelsea - Sky Sports Main HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fxyzstreams.st%2Fi-epl-1.html
-https://eu-4605069466.duckdns.org/skymain2/mono.ts.m3u8?token=468ca05e09cdcbec9d10d7159ffb7ade
-
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Everton vs Chelsea - USA SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Everton vs Chelsea - USA SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fxstream.st%2Flivetv.php%3Fstream%3Dtv401879267
-https://instreams.live/live3/tv401879267/index.m3u8?st=xpzR2IB_OcyHg2fv4rBnxQ&e=1791840606
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #EXTINF:-1 tvg-id="747" tvg-name="Premier League: Brentford vs Liverpool - SKY SPORTS EPL HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Brentford vs Liverpool - SKY SPORTS EPL HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/57915/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Brentford vs Liverpool - Sky Sports EPL SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Brentford vs Liverpool - Sky Sports EPL SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=https%3A%2F%2Fstreame.center
-https://edgestream6.pro/hls/eJmauBDCIf.m3u8
-
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Brentford vs Liverpool - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Brentford vs Liverpool - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36
-#EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
-#EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
-https://www.rtmpcdn.com/live/b354ab9e-f9db-4ef1-9757-c9b0b1cceb36.m3u8
 
 #EXTINF:-1 tvg-id="751" tvg-name="Premier League: Bournemouth vs Sunderland - NBC SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Bournemouth vs Sunderland - NBC SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
