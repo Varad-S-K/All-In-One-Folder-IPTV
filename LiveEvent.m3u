@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:01:22 AM 10-17-2026
+#LAST_UPDATE:05:55 AM 10-17-2026
 #Created by - Sayan 10
 #EXTINF:-1 tvg-id="748" tvg-name="Premier League: Fulham vs Hull - NBC SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Fulham vs Hull - NBC SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -467,18 +467,32 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 #EXTINF:-1 tvg-id="295" tvg-name="Friday Night SmackDown - HD SERVER" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="WWE",Friday Night SmackDown - HD SERVER
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-https://admin2.formaturamaxi.com.br/wwe.m3u8
+https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 tvg-id="295" tvg-name="Friday Night SmackDown - HD SERVER 2" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="WWE",Friday Night SmackDown - HD SERVER 2
+#EXTINF:-1 tvg-id="295" tvg-name="Friday Night SmackDown - HD SERVER" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="WWE",Friday Night SmackDown - HD SERVER
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.50/hls/QIIIAAAAAAQQQ.m3u8
+#EXTVLCOPT:http-referrer=https://roxiestreams.info
+https://daffodil.demonpvp.fun/wwe.m3u8
+
+#EXTINF:-1 tvg-id="295" tvg-name="Friday Night SmackDown - HD SERVER" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="WWE",Friday Night SmackDown - HD SERVER
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
+
+#EXTINF:-1 tvg-id="295" tvg-name="Friday Night SmackDown - HD SERVER" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="WWE",Friday Night SmackDown - HD SERVER
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream3.pro/hls/zeuryuegn48.m3u8
+
+#EXTINF:-1 tvg-id="295" tvg-name="Friday Night SmackDown - HD SERVER" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="WWE",Friday Night SmackDown - HD SERVER
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/54963/load-playlist?&.m3u8
 
 #EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW - RAW NETWORK 247" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="WWE",WWE Monday Night RAW - RAW NETWORK 247
 #KODIPROP:inputstream=inputstream.ffmpeg
