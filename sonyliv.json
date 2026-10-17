@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:35:00 17-10-2026",
+    "last update time": "17:07:51 17-10-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090548893_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Inter Kashi vs Odisha FC - 17 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090548893_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Inter Kashi vs Odisha FC - 17 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd"
+        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -12,28 +38,28 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "DP World India Championship - Day 3 - 17 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi1710-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792263899~acl=/*~id=08025859043300842501587374600919~hmac=b6849d183990e78e2ffe06f4b2990fd5f73b96d027af30e005461dd2b0b38368",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi1710-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792263899~acl=/*~id=08025859043300842501587374600919~hmac=b6849d183990e78e2ffe06f4b2990fd5f73b96d027af30e005461dd2b0b38368",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi1710-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792263899~acl=/*~id=08025859043300842501587374600919~hmac=b6849d183990e78e2ffe06f4b2990fd5f73b96d027af30e005461dd2b0b38368"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi1710-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi1710-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi1710-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd"
         },
         {
             "event_category": "Golf",
             "isLive": true,
-            "contentId": "1090548709_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045218534492_Asian_TOur_SJM_Macao_Open_Day3_live_landscape_thumb.jpg",
+            "contentId": "1090548915_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152367474905_DP-World-Locker-Room-D3_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2026",
-            "match_name": "SJM Macao Open - Day 3 - 17 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792263899~acl=/*~id=08025859043300842501587374600919~hmac=b6849d183990e78e2ffe06f4b2990fd5f73b96d027af30e005461dd2b0b38368",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792263899~acl=/*~id=08025859043300842501587374600919~hmac=b6849d183990e78e2ffe06f4b2990fd5f73b96d027af30e005461dd2b0b38368",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792263899~acl=/*~id=08025859043300842501587374600919~hmac=b6849d183990e78e2ffe06f4b2990fd5f73b96d027af30e005461dd2b0b38368"
+            "event_name": "DP World Tour",
+            "match_name": "DP World Locker Room - Day 3 - 17 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_DPW1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_DPW1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_DPW1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792280269~acl=/*~id=14388496305552142372321859032806~hmac=b3d64ad93cb6cdc954357b6367ab63391c67e0cda6cdcb0cda6af6eb974ffdfd"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090548747,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026492/1792137929659511_INDvsNZ_promo_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026551/1792220136269169_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
@@ -46,6 +72,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090548932,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026528/1792218247221303_NZ_vs_IND_1stT20i_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
